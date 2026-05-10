@@ -1,0 +1,3410 @@
+[
+  {
+    "id": "1",
+    "title": "One Piece",
+    "description": "A pirate adventure in search of the ultimate treasure.",
+    "author": "Eiichiro Oda",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "status": "Ongoing",
+    "chapters": 1100,
+    "rating": 9.5
+  },
+  {
+    "id": "2",
+    "title": "Naruto",
+    "description": "A ninja strives to become the Hokage.",
+    "author": "Masashi Kishimoto",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "status": "Completed",
+    "chapters": 700,
+    "rating": 8.9
+  },
+  {
+    "id": "3",
+    "title": "Attack on Titan",
+    "description": "Humanity fights against giant humanoid Titans.",
+    "author": "Hajime Isayama",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "status": "Completed",
+    "chapters": 139,
+    "rating": 9.1
+  },
+  {
+    "id": "4",
+    "title": "Death Note",
+    "description": "A notebook grants the power to kill anyone.",
+    "author": "Tsugumi Ohba",
+    "genres": [
+      "Thriller",
+      "Psychological"
+    ],
+    "status": "Completed",
+    "chapters": 108,
+    "rating": 9.2
+  },
+  {
+    "id": "5",
+    "title": "Demon Slayer",
+    "description": "A boy fights demons to save his sister.",
+    "author": "Koyoharu Gotouge",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "status": "Completed",
+    "chapters": 205,
+    "rating": 8.8
+  },
+  {
+    "id": "6",
+    "title": "Jujutsu Kaisen",
+    "description": "A student battles cursed spirits.",
+    "author": "Gege Akutami",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "status": "Ongoing",
+    "chapters": 250,
+    "rating": 8.7
+  },
+  {
+    "id": "7",
+    "title": "Tokyo Ghoul",
+    "description": "A man becomes half-ghoul.",
+    "author": "Sui Ishida",
+    "genres": [
+      "Dark Fantasy"
+    ],
+    "status": "Completed",
+    "chapters": 143,
+    "rating": 8.5
+  },
+  {
+    "id": "8",
+    "title": "Fullmetal Alchemist",
+    "description": "Two brothers search for the Philosopher's Stone.",
+    "author": "Hiromu Arakawa",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "status": "Completed",
+    "chapters": 116,
+    "rating": 9.3
+  },
+  {
+    "id": "9",
+    "title": "Bleach",
+    "description": "A teenager gains Soul Reaper powers.",
+    "author": "Tite Kubo",
+    "genres": [
+      "Action"
+    ],
+    "status": "Completed",
+    "chapters": 686,
+    "rating": 8.4
+  },
+  {
+    "id": "10",
+    "title": "Dragon Ball",
+    "description": "A martial artist searches for Dragon Balls.",
+    "author": "Akira Toriyama",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "status": "Completed",
+    "chapters": 519,
+    "rating": 8.6
+  },
+  {
+    "id": "11",
+    "title": "Hunter x Hunter",
+    "description": "A boy becomes a Hunter to find his father.",
+    "author": "Yoshihiro Togashi",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "status": "Ongoing",
+    "chapters": 400,
+    "rating": 9
+  },
+  {
+    "id": "12",
+    "title": "My Hero Academia",
+    "description": "A boy trains to become a superhero.",
+    "author": "Kohei Horikoshi",
+    "genres": [
+      "Action",
+      "Superhero"
+    ],
+    "status": "Ongoing",
+    "chapters": 400,
+    "rating": 8.5
+  },
+  {
+    "id": "13",
+    "title": "Chainsaw Man",
+    "description": "A boy merges with a chainsaw devil.",
+    "author": "Tatsuki Fujimoto",
+    "genres": [
+      "Action",
+      "Horror"
+    ],
+    "status": "Ongoing",
+    "chapters": 150,
+    "rating": 8.9
+  },
+  {
+    "id": "14",
+    "title": "Spy x Family",
+    "description": "A spy builds a fake family.",
+    "author": "Tatsuya Endo",
+    "genres": [
+      "Comedy",
+      "Action"
+    ],
+    "status": "Ongoing",
+    "chapters": 100,
+    "rating": 8.6
+  },
+  {
+    "id": "15",
+    "title": "Black Clover",
+    "description": "A magicless boy aims to be Wizard King.",
+    "author": "Yuki Tabata",
+    "genres": [
+      "Fantasy",
+      "Action"
+    ],
+    "status": "Ongoing",
+    "chapters": 370,
+    "rating": 8.2
+  },
+  {
+    "id": "16",
+    "title": "Fairy Tail",
+    "description": "A wizard guild goes on adventures.",
+    "author": "Hiro Mashima",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "status": "Completed",
+    "chapters": 545,
+    "rating": 8
+  },
+  {
+    "id": "17",
+    "title": "Blue Lock",
+    "description": "A program to create the best striker.",
+    "author": "Muneyuki Kaneshiro",
+    "genres": [
+      "Sports"
+    ],
+    "status": "Ongoing",
+    "chapters": 250,
+    "rating": 8.7
+  },
+  {
+    "id": "18",
+    "title": "Haikyuu!!",
+    "description": "High school volleyball competition.",
+    "author": "Haruichi Furudate",
+    "genres": [
+      "Sports"
+    ],
+    "status": "Completed",
+    "chapters": 402,
+    "rating": 9
+  },
+  {
+    "id": "19",
+    "title": "Kuroko no Basket",
+    "description": "A basketball prodigy and his team.",
+    "author": "Tadatoshi Fujimaki",
+    "genres": [
+      "Sports"
+    ],
+    "status": "Completed",
+    "chapters": 275,
+    "rating": 8.3
+  },
+  {
+    "id": "20",
+    "title": "Slam Dunk",
+    "description": "A delinquent joins a basketball team.",
+    "author": "Takehiko Inoue",
+    "genres": [
+      "Sports"
+    ],
+    "status": "Completed",
+    "chapters": 276,
+    "rating": 9.1
+  },
+  {
+    "id": "21",
+    "title": "Vagabond",
+    "description": "A samurai seeks enlightenment.",
+    "author": "Takehiko Inoue",
+    "genres": [
+      "Historical"
+    ],
+    "status": "Ongoing",
+    "chapters": 327,
+    "rating": 9.4
+  },
+  {
+    "id": "22",
+    "title": "Berserk",
+    "description": "A warrior battles fate and demons.",
+    "author": "Kentaro Miura",
+    "genres": [
+      "Dark Fantasy"
+    ],
+    "status": "Ongoing",
+    "chapters": 370,
+    "rating": 9.6
+  },
+  {
+    "id": "23",
+    "title": "Vinland Saga",
+    "description": "A Viking revenge story.",
+    "author": "Makoto Yukimura",
+    "genres": [
+      "Historical"
+    ],
+    "status": "Ongoing",
+    "chapters": 200,
+    "rating": 9.2
+  },
+  {
+    "id": "24",
+    "title": "Dr. Stone",
+    "description": "Rebuilding civilization with science.",
+    "author": "Riichiro Inagaki",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "status": "Completed",
+    "chapters": 232,
+    "rating": 8.6
+  },
+  {
+    "id": "25",
+    "title": "Fire Force",
+    "description": "Firefighters combat spontaneous combustion.",
+    "author": "Atsushi Ohkubo",
+    "genres": [
+      "Action"
+    ],
+    "status": "Completed",
+    "chapters": 304,
+    "rating": 8.1
+  },
+  {
+    "id": "26",
+    "title": "Noragami",
+    "description": "A minor god seeks recognition.",
+    "author": "Adachitoka",
+    "genres": [
+      "Supernatural"
+    ],
+    "status": "Ongoing",
+    "chapters": 110,
+    "rating": 8.4
+  },
+  {
+    "id": "27",
+    "title": "The Promised Neverland",
+    "description": "Children escape a dark orphanage.",
+    "author": "Kaiu Shirai",
+    "genres": [
+      "Thriller"
+    ],
+    "status": "Completed",
+    "chapters": 181,
+    "rating": 8.5
+  },
+  {
+    "id": "28",
+    "title": "Made in Abyss",
+    "description": "Exploring a mysterious abyss.",
+    "author": "Akihito Tsukushi",
+    "genres": [
+      "Adventure"
+    ],
+    "status": "Ongoing",
+    "chapters": 70,
+    "rating": 8.9
+  },
+  {
+    "id": "29",
+    "title": "Mob Psycho 100",
+    "description": "A psychic boy tries to live normally.",
+    "author": "ONE",
+    "genres": [
+      "Comedy"
+    ],
+    "status": "Completed",
+    "chapters": 101,
+    "rating": 8.8
+  },
+  {
+    "id": "30",
+    "title": "One Punch Man",
+    "description": "A hero defeats enemies in one punch.",
+    "author": "ONE",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "status": "Ongoing",
+    "chapters": 200,
+    "rating": 8.9
+  },
+  {
+    "id": "31",
+    "title": "Gintama",
+    "description": "Samurai comedy in alien Edo.",
+    "author": "Hideaki Sorachi",
+    "genres": [
+      "Comedy"
+    ],
+    "status": "Completed",
+    "chapters": 704,
+    "rating": 9.1
+  },
+  {
+    "id": "32",
+    "title": "Re:Zero",
+    "description": "A boy resets time after death.",
+    "author": "Tappei Nagatsuki",
+    "genres": [
+      "Fantasy"
+    ],
+    "status": "Ongoing",
+    "chapters": 150,
+    "rating": 8.7
+  },
+  {
+    "id": "33",
+    "title": "Sword Art Online",
+    "description": "Players trapped in a VR game.",
+    "author": "Reki Kawahara",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "status": "Ongoing",
+    "chapters": 120,
+    "rating": 7.8
+  },
+  {
+    "id": "34",
+    "title": "Overlord",
+    "description": "A gamer becomes a skeleton overlord.",
+    "author": "Kugane Maruyama",
+    "genres": [
+      "Fantasy"
+    ],
+    "status": "Ongoing",
+    "chapters": 100,
+    "rating": 8.3
+  },
+  {
+    "id": "35",
+    "title": "No Game No Life",
+    "description": "Siblings dominate a game world.",
+    "author": "Yuu Kamiya",
+    "genres": [
+      "Fantasy"
+    ],
+    "status": "Ongoing",
+    "chapters": 50,
+    "rating": 8.2
+  },
+  {
+    "id": "36",
+    "title": "Your Lie in April",
+    "description": "A pianist rediscovers music.",
+    "author": "Naoshi Arakawa",
+    "genres": [
+      "Drama"
+    ],
+    "status": "Completed",
+    "chapters": 44,
+    "rating": 8.9
+  },
+  {
+    "id": "37",
+    "title": "Clannad",
+    "description": "A story of family and relationships.",
+    "author": "Key",
+    "genres": [
+      "Drama"
+    ],
+    "status": "Completed",
+    "chapters": 60,
+    "rating": 8.8
+  },
+  {
+    "id": "38",
+    "title": "Toradora",
+    "description": "A romantic high school story.",
+    "author": "Yuyuko Takemiya",
+    "genres": [
+      "Romance"
+    ],
+    "status": "Completed",
+    "chapters": 90,
+    "rating": 8.4
+  },
+  {
+    "id": "39",
+    "title": "Horimiya",
+    "description": "Two students reveal their true selves.",
+    "author": "HERO",
+    "genres": [
+      "Romance"
+    ],
+    "status": "Completed",
+    "chapters": 125,
+    "rating": 8.6
+  },
+  {
+    "id": "40",
+    "title": "Kaguya-sama",
+    "description": "A battle of love and pride.",
+    "author": "Aka Akasaka",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "status": "Completed",
+    "chapters": 281,
+    "rating": 9
+  },
+  {
+    "id": "41",
+    "title": "Oshi no Ko",
+    "description": "A story about idols and revenge.",
+    "author": "Aka Akasaka",
+    "genres": [
+      "Drama"
+    ],
+    "status": "Ongoing",
+    "chapters": 150,
+    "rating": 8.8
+  },
+  {
+    "id": "42",
+    "title": "Parasyte",
+    "description": "Aliens invade human bodies.",
+    "author": "Hitoshi Iwaaki",
+    "genres": [
+      "Horror"
+    ],
+    "status": "Completed",
+    "chapters": 64,
+    "rating": 8.7
+  },
+  {
+    "id": "43",
+    "title": "Erased",
+    "description": "A man travels back in time.",
+    "author": "Kei Sanbe",
+    "genres": [
+      "Thriller"
+    ],
+    "status": "Completed",
+    "chapters": 49,
+    "rating": 8.8
+  },
+  {
+    "id": "44",
+    "title": "Akame ga Kill",
+    "description": "Assassins fight corruption.",
+    "author": "Takahiro",
+    "genres": [
+      "Action"
+    ],
+    "status": "Completed",
+    "chapters": 78,
+    "rating": 8.1
+  },
+  {
+    "id": "45",
+    "title": "Mirai Nikki",
+    "description": "A deadly survival game.",
+    "author": "Sakae Esuno",
+    "genres": [
+      "Thriller"
+    ],
+    "status": "Completed",
+    "chapters": 59,
+    "rating": 7.9
+  },
+  {
+    "id": "46",
+    "title": "Zom 100",
+    "description": "Enjoying life during zombie apocalypse.",
+    "author": "Haro Aso",
+    "genres": [
+      "Comedy"
+    ],
+    "status": "Ongoing",
+    "chapters": 60,
+    "rating": 8.3
+  },
+  {
+    "id": "47",
+    "title": "Ajin",
+    "description": "Immortal humans hunted by government.",
+    "author": "Gamon Sakurai",
+    "genres": [
+      "Action"
+    ],
+    "status": "Completed",
+    "chapters": 86,
+    "rating": 8.4
+  },
+  {
+    "id": "48",
+    "title": "Dorohedoro",
+    "description": "A man searches for his true identity.",
+    "author": "Q Hayashida",
+    "genres": [
+      "Dark Fantasy"
+    ],
+    "status": "Completed",
+    "chapters": 167,
+    "rating": 8.7
+  },
+  {
+    "id": "49",
+    "title": "Hell's Paradise",
+    "description": "Criminals seek immortality.",
+    "author": "Yuji Kaku",
+    "genres": [
+      "Action"
+    ],
+    "status": "Completed",
+    "chapters": 127,
+    "rating": 8.5
+  },
+  {
+    "id": "50",
+    "title": "Solo Leveling",
+    "description": "A weak hunter becomes strongest.",
+    "author": "Chugong",
+    "genres": [
+      "Action"
+    ],
+    "status": "Completed",
+    "chapters": 179,
+    "rating": 8.9
+  },
+  {
+    "id": "51",
+    "title": "Tower of God",
+    "description": "Climbing a mysterious tower.",
+    "author": "SIU",
+    "genres": [
+      "Fantasy"
+    ],
+    "status": "Ongoing",
+    "chapters": 550,
+    "rating": 8.7
+  },
+  {
+    "id": "52",
+    "title": "The God of High School",
+    "description": "Martial arts tournament.",
+    "author": "Yongje Park",
+    "genres": [
+      "Action"
+    ],
+    "status": "Completed",
+    "chapters": 570,
+    "rating": 8
+  },
+  {
+    "id": "53",
+    "title": "Noblesse",
+    "description": "A noble vampire awakens.",
+    "author": "Son Jeho",
+    "genres": [
+      "Supernatural"
+    ],
+    "status": "Completed",
+    "chapters": 544,
+    "rating": 8.2
+  },
+  {
+    "id": "54",
+    "title": "Lookism",
+    "description": "A boy changes appearance.",
+    "author": "Park Tae-joon",
+    "genres": [
+      "Drama"
+    ],
+    "status": "Ongoing",
+    "chapters": 450,
+    "rating": 8.1
+  },
+  {
+    "id": "55",
+    "title": "Wind Breaker",
+    "description": "Cycling competitions.",
+    "author": "Jo Yongseok",
+    "genres": [
+      "Sports"
+    ],
+    "status": "Ongoing",
+    "chapters": 450,
+    "rating": 8.3
+  },
+  {
+    "id": "56",
+    "title": "Kingdom",
+    "description": "War in ancient China.",
+    "author": "Yasuhisa Hara",
+    "genres": [
+      "Historical"
+    ],
+    "status": "Ongoing",
+    "chapters": 750,
+    "rating": 9.3
+  },
+  {
+    "id": "57",
+    "title": "Golden Kamuy",
+    "description": "Treasure hunt in Hokkaido.",
+    "author": "Satoru Noda",
+    "genres": [
+      "Adventure"
+    ],
+    "status": "Completed",
+    "chapters": 314,
+    "rating": 8.9
+  },
+  {
+    "id": "58",
+    "title": "Monster",
+    "description": "A doctor hunts a serial killer.",
+    "author": "Naoki Urasawa",
+    "genres": [
+      "Thriller"
+    ],
+    "status": "Completed",
+    "chapters": 162,
+    "rating": 9.4
+  },
+  {
+    "id": "59",
+    "title": "20th Century Boys",
+    "description": "A cult threatens the world.",
+    "author": "Naoki Urasawa",
+    "genres": [
+      "Mystery"
+    ],
+    "status": "Completed",
+    "chapters": 249,
+    "rating": 9.1
+  },
+  {
+    "id": "60",
+    "title": "Pluto",
+    "description": "A robot investigates murders.",
+    "author": "Naoki Urasawa",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "status": "Completed",
+    "chapters": 65,
+    "rating": 9
+  },
+  {
+    "id": "61",
+    "title": "Blame!",
+    "description": "Exploring a vast cyber city.",
+    "author": "Tsutomu Nihei",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "status": "Completed",
+    "chapters": 66,
+    "rating": 8.3
+  },
+  {
+    "id": "62",
+    "title": "Knights of Sidonia",
+    "description": "Humans fight alien Gauna.",
+    "author": "Tsutomu Nihei",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "status": "Completed",
+    "chapters": 78,
+    "rating": 8.2
+  },
+  {
+    "id": "63",
+    "title": "Gantz",
+    "description": "Dead people fight aliens.",
+    "author": "Hiroya Oku",
+    "genres": [
+      "Action"
+    ],
+    "status": "Completed",
+    "chapters": 383,
+    "rating": 8.2
+  },
+  {
+    "id": "64",
+    "title": "Inuyasha",
+    "description": "A girl travels in feudal Japan.",
+    "author": "Rumiko Takahashi",
+    "genres": [
+      "Fantasy"
+    ],
+    "status": "Completed",
+    "chapters": 558,
+    "rating": 8.4
+  },
+  {
+    "id": "65",
+    "title": "Ranma 1/2",
+    "description": "A martial artist cursed with transformations.",
+    "author": "Rumiko Takahashi",
+    "genres": [
+      "Comedy"
+    ],
+    "status": "Completed",
+    "chapters": 407,
+    "rating": 8.2
+  },
+  {
+    "id": "66",
+    "title": "Detective Conan",
+    "description": "A boy detective solves cases.",
+    "author": "Gosho Aoyama",
+    "genres": [
+      "Mystery"
+    ],
+    "status": "Ongoing",
+    "chapters": 1100,
+    "rating": 8.6
+  },
+  {
+    "id": "67",
+    "title": "Yu Yu Hakusho",
+    "description": "A delinquent becomes spirit detective.",
+    "author": "Yoshihiro Togashi",
+    "genres": [
+      "Action"
+    ],
+    "status": "Completed",
+    "chapters": 175,
+    "rating": 8.8
+  },
+  {
+    "id": "68",
+    "title": "Rurouni Kenshin",
+    "description": "A wandering samurai seeks redemption.",
+    "author": "Nobuhiro Watsuki",
+    "genres": [
+      "Action"
+    ],
+    "status": "Completed",
+    "chapters": 255,
+    "rating": 8.7
+  },
+  {
+    "id": "69",
+    "title": "D.Gray-man",
+    "description": "Exorcists fight demons.",
+    "author": "Katsura Hoshino",
+    "genres": [
+      "Action"
+    ],
+    "status": "Ongoing",
+    "chapters": 250,
+    "rating": 8.3
+  },
+  {
+    "id": "70",
+    "title": "Beelzebub",
+    "description": "A delinquent raises a demon baby.",
+    "author": "Ryuhei Tamura",
+    "genres": [
+      "Comedy"
+    ],
+    "status": "Completed",
+    "chapters": 240,
+    "rating": 8.1
+  },
+  {
+    "id": "71",
+    "title": "Toriko",
+    "description": "A gourmet hunter seeks rare food.",
+    "author": "Mitsutoshi Shimabukuro",
+    "genres": [
+      "Adventure"
+    ],
+    "status": "Completed",
+    "chapters": 396,
+    "rating": 8
+  },
+  {
+    "id": "72",
+    "title": "Shokugeki no Soma",
+    "description": "Cooking battles in elite school.",
+    "author": "Yuto Tsukuda",
+    "genres": [
+      "Food"
+    ],
+    "status": "Completed",
+    "chapters": 315,
+    "rating": 8.5
+  },
+  {
+    "id": "73",
+    "title": "Food Wars",
+    "description": "Cooking duels with intense flair.",
+    "author": "Yuto Tsukuda",
+    "genres": [
+      "Food"
+    ],
+    "status": "Completed",
+    "chapters": 315,
+    "rating": 8.5
+  },
+  {
+    "id": "74",
+    "title": "Initial D",
+    "description": "Street racing in mountains.",
+    "author": "Shuichi Shigeno",
+    "genres": [
+      "Sports"
+    ],
+    "status": "Completed",
+    "chapters": 719,
+    "rating": 8.6
+  },
+  {
+    "id": "75",
+    "title": "Wangan Midnight",
+    "description": "High-speed highway racing.",
+    "author": "Michiharu Kusunoki",
+    "genres": [
+      "Sports"
+    ],
+    "status": "Completed",
+    "chapters": 550,
+    "rating": 8.2
+  },
+  {
+    "id": "76",
+    "title": "Eyeshield 21",
+    "description": "American football team rises.",
+    "author": "Riichiro Inagaki",
+    "genres": [
+      "Sports"
+    ],
+    "status": "Completed",
+    "chapters": 333,
+    "rating": 8.7
+  },
+  {
+    "id": "77",
+    "title": "Prince of Tennis",
+    "description": "Tennis prodigy dominates matches.",
+    "author": "Takeshi Konomi",
+    "genres": [
+      "Sports"
+    ],
+    "status": "Completed",
+    "chapters": 379,
+    "rating": 8.1
+  },
+  {
+    "id": "78",
+    "title": "Hajime no Ippo",
+    "description": "A boxer climbs to the top.",
+    "author": "George Morikawa",
+    "genres": [
+      "Sports"
+    ],
+    "status": "Ongoing",
+    "chapters": 1400,
+    "rating": 9
+  },
+  {
+    "id": "79",
+    "title": "Ashita no Joe",
+    "description": "A troubled youth becomes boxer.",
+    "author": "Asao Takamori",
+    "genres": [
+      "Sports"
+    ],
+    "status": "Completed",
+    "chapters": 170,
+    "rating": 9.1
+  },
+  {
+    "id": "80",
+    "title": "Ping Pong",
+    "description": "Table tennis rivalry.",
+    "author": "Taiyo Matsumoto",
+    "genres": [
+      "Sports"
+    ],
+    "status": "Completed",
+    "chapters": 55,
+    "rating": 8.8
+  },
+  {
+    "id": "81",
+    "title": "March Comes in Like a Lion",
+    "description": "A shogi player's life.",
+    "author": "Chica Umino",
+    "genres": [
+      "Drama"
+    ],
+    "status": "Ongoing",
+    "chapters": 200,
+    "rating": 9
+  },
+  {
+    "id": "82",
+    "title": "Nana",
+    "description": "Two girls share the same name.",
+    "author": "Ai Yazawa",
+    "genres": [
+      "Drama"
+    ],
+    "status": "Ongoing",
+    "chapters": 84,
+    "rating": 8.9
+  },
+  {
+    "id": "83",
+    "title": "Paradise Kiss",
+    "description": "Fashion and romance.",
+    "author": "Ai Yazawa",
+    "genres": [
+      "Romance"
+    ],
+    "status": "Completed",
+    "chapters": 48,
+    "rating": 8.6
+  },
+  {
+    "id": "84",
+    "title": "Fruits Basket",
+    "description": "A girl meets cursed family.",
+    "author": "Natsuki Takaya",
+    "genres": [
+      "Romance"
+    ],
+    "status": "Completed",
+    "chapters": 136,
+    "rating": 8.9
+  },
+  {
+    "id": "85",
+    "title": "Ouran High School Host Club",
+    "description": "A girl joins a host club.",
+    "author": "Bisco Hatori",
+    "genres": [
+      "Comedy"
+    ],
+    "status": "Completed",
+    "chapters": 83,
+    "rating": 8.5
+  },
+  {
+    "id": "86",
+    "title": "Skip Beat",
+    "description": "A girl enters showbiz revenge.",
+    "author": "Yoshiki Nakamura",
+    "genres": [
+      "Drama"
+    ],
+    "status": "Ongoing",
+    "chapters": 300,
+    "rating": 8.4
+  },
+  {
+    "id": "87",
+    "title": "Chihayafuru",
+    "description": "Competitive karuta sport.",
+    "author": "Yuki Suetsugu",
+    "genres": [
+      "Sports"
+    ],
+    "status": "Completed",
+    "chapters": 247,
+    "rating": 8.8
+  },
+  {
+    "id": "88",
+    "title": "Ao Haru Ride",
+    "description": "High school romance.",
+    "author": "Io Sakisaka",
+    "genres": [
+      "Romance"
+    ],
+    "status": "Completed",
+    "chapters": 49,
+    "rating": 8.2
+  },
+  {
+    "id": "89",
+    "title": "Orange",
+    "description": "Letters from the future.",
+    "author": "Ichigo Takano",
+    "genres": [
+      "Drama"
+    ],
+    "status": "Completed",
+    "chapters": 22,
+    "rating": 8.7
+  },
+  {
+    "id": "90",
+    "title": "Relife",
+    "description": "A man relives high school.",
+    "author": "Yayoiso",
+    "genres": [
+      "Drama"
+    ],
+    "status": "Completed",
+    "chapters": 222,
+    "rating": 8.8
+  },
+  {
+    "id": "91",
+    "title": "The Rising of the Shield Hero",
+    "description": "A hero is betrayed in another world.",
+    "author": "Aneko Yusagi",
+    "genres": [
+      "Fantasy"
+    ],
+    "status": "Ongoing",
+    "chapters": 120,
+    "rating": 8
+  },
+  {
+    "id": "92",
+    "title": "That Time I Got Reincarnated as a Slime",
+    "description": "A man becomes a slime.",
+    "author": "Fuse",
+    "genres": [
+      "Fantasy"
+    ],
+    "status": "Ongoing",
+    "chapters": 110,
+    "rating": 8.5
+  },
+  {
+    "id": "93",
+    "title": "Mushoku Tensei",
+    "description": "A man reincarnates in a fantasy world.",
+    "author": "Rifujin na Magonote",
+    "genres": [
+      "Fantasy"
+    ],
+    "status": "Ongoing",
+    "chapters": 100,
+    "rating": 8.7
+  },
+  {
+    "id": "94",
+    "title": "The Eminence in Shadow",
+    "description": "A boy pretends to be mastermind.",
+    "author": "Daisuke Aizawa",
+    "genres": [
+      "Fantasy"
+    ],
+    "status": "Ongoing",
+    "chapters": 80,
+    "rating": 8.3
+  },
+  {
+    "id": "95",
+    "title": "Log Horizon",
+    "description": "Players trapped in game world.",
+    "author": "Mamare Touno",
+    "genres": [
+      "Fantasy"
+    ],
+    "status": "Ongoing",
+    "chapters": 90,
+    "rating": 8.2
+  },
+  {
+    "id": "96",
+    "title": "Accel World",
+    "description": "A boy enters virtual battles.",
+    "author": "Reki Kawahara",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "status": "Ongoing",
+    "chapters": 90,
+    "rating": 7.9
+  },
+  {
+    "id": "97",
+    "title": "Deadman Wonderland",
+    "description": "A prison survival story.",
+    "author": "Jinsei Kataoka",
+    "genres": [
+      "Action"
+    ],
+    "status": "Completed",
+    "chapters": 57,
+    "rating": 8
+  },
+  {
+    "id": "98",
+    "title": "Elfen Lied",
+    "description": "A girl with deadly powers.",
+    "author": "Lynn Okamoto",
+    "genres": [
+      "Horror"
+    ],
+    "status": "Completed",
+    "chapters": 113,
+    "rating": 8.1
+  },
+  {
+    "id": "99",
+    "title": "Claymore",
+    "description": "Warriors fight demons.",
+    "author": "Norihiro Yagi",
+    "genres": [
+      "Dark Fantasy"
+    ],
+    "status": "Completed",
+    "chapters": 155,
+    "rating": 8.7
+  },
+  {
+    "id": "100",
+    "title": "Akira",
+    "description": "A cyberpunk dystopian future.",
+    "author": "Katsuhiro Otomo",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "status": "Completed",
+    "chapters": 120,
+    "rating": 9.3
+  },
+  {
+    "id": "101",
+    "title": "Tozaki-san wa Boku ni Dake Tsumetai",
+    "description": "Kenjiro, a first year high school student, has had a crush on Tozaki-san, who is in the same class with him since the beginning of school. Tozaki-san is kind to everyone, but for some reason, she only has a cold attitude towards Kenjiro.",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "102",
+    "title": "Kaitai",
+    "description": "The long-awaited comic adaptation of the popular TRPG scenario by game streamer Mutsuu! Touko Ozawa wakes up inside an unfamiliar ship. Her memory is hazy, and there is a needle mark on her arm. There, she encounters two young people, Chisato Kanagi and Hitomi Mikami. What they have in common is that they have no memory of how they got there. Inside a ship echoing with the sounds of inhuman footsteps and the eerie cries of \"Gitagido Detade Rabba...\", who exactly took them and for what purpose—? In search of answers, the youths begin their exploration.",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "103",
+    "title": "Lily Love 2",
+    "description": "Ploy has been avoiding her family and anything that's related to her family's business as long as she could. She is now, however, forced to be part of the business and dreads what her parents have in store for her. Hopefully, there is one thing that could help her bear all of it as a certain student applies for an internship at the hotel Ploy is at.",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "104",
+    "title": "Maid nara Touzen desu. ~Nureginu wo Kiserareta Bannou Maid-san wa Tabi ni Deru Koto ni shimashita.~",
+    "description": "Nina is a humble and small petite maid, but she is very, very talented. One day, she was accused of breaking her master's cherished vase, a crime she has no memory of, and is thrown out of the house. Losing her way, Nina decides to make a fresh start and embark on a journey. With the knowledge and skills she learned of maid-work, she solves the problems of the girls she meets on her journey...!\n___\n**Links:**  \n- [![](https://i.imgur.com/HI4jAzg.png) Web Novel](https://ncode.syosetu.com/n6251hf)\n- [Official LN (JP)](https://www.es-novel.jp/bookdetail/150meidonara.php)",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "105",
+    "title": "The Villainess Refuses to Flirt With the Male Lead",
+    "description": "Transmigrating as the villainess of a cliché imperial manhua isn't scary, what's scary is that the male leads are all children! Not only do I have to take care of children, but I'm also being courted by one of them and being called \"wife\"! Ms. Hong would like to say: \"Fuck you, god!\" 凸(｀⌒´メ)凸\n\nOfficial Translations:\n[Korean](https://page.kakao.com/content/59080258)",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "106",
+    "title": "Date-A-Party",
+    "description": "Did you know there was an organization that is protecting the world from the harm? Its name is Ratatoskr. Their job is to assist \"Spirits\", an unknown beings that causes destruction to wherever they go, whether they intend to or not. And they help those \"spirits\" adjust into normal life. This is a story of a boy, Itsuka Shidoh, and his daily life, where he was forced into attempts into leading the spirits into his regular ordinary way of life and where they lead… his?",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "107",
+    "title": "Let Down",
+    "description": "40 years after a war, a dystopian society known as \"Terminal,\" people live separated from the outside world by a great wall, protecting themselves from creatures known as \"Alphas\" whose origin is unknown.\nEthan Laker an orphan with dissociative memory problems and his childhood friend Matthew Yung must ascend in life while facing physical and social challenges in an unequal city.",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "108",
+    "title": "Dark Gathering",
+    "description": "Keitarou, who's always had a disposition for attracting spirits, gets hired as a tutor for a little girl named Yayoi who can see spirits and is searching for the spirit that took away her mother.",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "109",
+    "title": "Phony Fortune-Telling Gyaru",
+    "description": "",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "110",
+    "title": "Doppel-san",
+    "description": "Unsociable girl vs. shady boy + doppelganger-san! Yamamoto and Hattori. The two can't start a romantic comedy on their own, but... Hattori's doppelganger, \"Doppel-san,\" will tell him what she's really thinking! Is Doppel-san the cupid of love? Or is she just a figment of his imagination?",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "111",
+    "title": "Visual Breakers",
+    "description": "We ended up at a concept bar on a whim for the afterparty, and it turned out to be full of seriously tall women.\n\nIt’s a manga where the customers have a casual conversation with the big ladies they meet at the bar.\nThe conversations mostly revolve around appearances and the relationship dynamics between people.",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "112",
+    "title": "Meikyuu Teikoku no Tsukurikata - Renseijutsushi wa Mazu Risou no Mura wo Kaitaku Shimasu",
+    "description": "Nino, an Alchemist, suddenly regains memories of his past life and realizes that the world he lives in is actually the setting of a game he had mastered in his previous life. Even worse, the world is already on track towards a bad ending. \n\nDetermined to avoid the worst outcome, Nino takes action, but he is soon falsely accused and exiled to a remote frontier. However, this village holds a secret that only he knows—there's a hidden dungeon here! \n\nNow, with the perks of being a reincarnator and his vast knowledge of the game's mechanics, Nino begins his ideal frontier life!",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "113",
+    "title": "Isekai Mou Kaeritai",
+    "description": "Ordinary salaryman X isekai = a dispirited life in another world!?\nHe worked normally, ate normally, and slept normally. Salaryman Shimoyamaguchi Ichirou was satisfied with his simple but happy everyday life.\nOne day, he was summoned to another world to fight as a hero, but was as well received as a 1-star character pulled in a gacha game...\n\"Ugh, I just want to go home...\"\nWhich way will tomorrow lead Shimoyamaguchi!?",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "114",
+    "title": "Prejudice",
+    "description": "The star of a male idol group who has a cold demeanor, who also has no control in restraining himself. And an idol with a harmless and childlike cutesy personality on cameras and is able to stay in character, but is an complete opposite off-stage… They're sworn enemies that hate each other and somehow ends up having to act like a couple with each other as fan service?! Yup, Looks sweet!",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "115",
+    "title": "Death Game Manga no Kuromaku Satsujinki no Imouto ni Tensei shite Shippai shita",
+    "description": "One day, Mai remembers that her perfect stepbrother is a character in a death game manga, and that one year later he will hold a death game involving all of his classmates, killing his sister in the process. Mai plans a variety of surprises for her stepbrother every day based on what he said in the manga, \"Nothing unexpected happened, so I was bored,\" but as the days go by, he begins to show abnormal signs... Only I know what my brother's really like. Pepu's comicalization of Inada Sou's popular web novel!",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "116",
+    "title": "Onna no Ko no Ken wo Te ni Ireta",
+    "description": "The hero Arks unsheathes the holy sword to save the world! But his sexual inclinations cause the sword's power to go out of control...?! The cute hero's unprecedented adventure begins now!",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "117",
+    "title": "Doga",
+    "description": "Yote is as high-ranked as he is unaware of the reality of the world. As a new lord, he gets the opportunity to leave his castle for the first time of his life to explore the free city of Leoure. But as Yote just starts to get a glimpse of what kindness and freedom look like, he is killed by street robbers. The young man is saved by a mysterious woman who happens to be a talented inventor. She transfers his mind into a cyborg body, allowing him to survive... for a year or two.\n\nYote is now a robot hardly able to move around by himself. But whatever, for him it's the first day of a new life! But to have a life, he needs to become human again. Only the legendary mermaids are said to have the magical powers to achieve such miracles. To help him on his hazardous journey, he hires Doga, a strong and witty street orphan ready to do anything to get out of Leoure and see the world. For both of them, this is the beginning of a road-trip full of surprises!\n\n(Source: AnimeNewsNetwork)",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "118",
+    "title": "Date A Origami",
+    "description": "4-koma spin-off from the Date A Live series.  \n  \nWarning: Will contain spoilers.",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "119",
+    "title": "HITS",
+    "description": "A mysterious command given to Tomita Yuzu, whose livelihood is assassination. \"Kill the one you meet now.\" However, what appeared in front of me was another self...!?",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "hiatus",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "120",
+    "title": "Birds Junkies",
+    "description": "Naruse is a new working adult who is exhausted from his unfamiliar life. He reaches his limit and storms into his neighbor's house! There, he finds \"that thing\" that even makes Naruse addicted to it. A person who knows Naruse says, \"He is addicted to birds more than anything else. The person who is addicted to birds is the worst of all...\"",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "121",
+    "title": "Ad Astra - Scipio and Hannibal",
+    "description": "This is the story of two of the greatest military commanders in history: the Roman Publius Cornelius Scipio and the Carthaginian Hannibal. The story follows the two of them from their early life on. Hannibal is initially shown as a strangely silent infant, who seemed like the gods forgot to put a soul in his little body. However, he soon begins to speak in a way that shows his remarkable abilities. Hannibal and Scipio are driven enemies, and their struggle shaped an era.",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "122",
+    "title": "The Distinguished Cute Master",
+    "description": "Yuan Chu transmigrated as the opposing boss in the novel, but she was wiped out by the male lead Ye Chen Yuan. Fortunately, she reincarnates once more, but back to the past, when Yuan was still young! Looking at the pitifully weak Little Yuan, she is troubled by a dilemma. Should she: 1. kill him, or 2. raise him up and openly ask for treasures from him. However, since she wants to get all sorts of treasures from him, she chooses the second option. Things don't always work out though, as she accidentally raises a sheep up to be a big bad wolf.   \n  \nMaster? Want treasure? Let's cultivate together, but alone, just us two, then.",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "hiatus",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "123",
+    "title": "Renegade",
+    "description": "A lighthearted comedy about everyday life, where the smallest moments turn into the funniest situations. From random thoughts to relatable struggles, nothing ever goes as expected.",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "124",
+    "title": "Dragon Ball Super",
+    "description": "Dragon Ball Super follows the aftermath of Goku's fierce battle with Majin Buu, as he attempts to maintain earth's fragile peace.\n\nHaving defeated Majin Buu, Goku is starting to get bored with his life on Earth. His wife, Chi-chi, wants him to get a job, but all he wants to do is train and fight stronger enemies. Elsewhere in the universe, the God of Destruction, Beerus, and his attendant Whis are traveling from planet to planet in search of food and entertainment. \n\nAfter blowing up some hapless victims, Beerus is reminded of a man from his dreams with the moniker “Super Saiyan God,” or something like that... The God of Destruction sets his sights on Earth to track down this mysterious man! Maybe this will give Goku something to do?",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "125",
+    "title": "WORST Gaiden Saburoku Santa Namonaki Karasu-tachi",
+    "description": "This manga depicts the one-year gap in the story when Harumichi Bouya leaves Suzuran Boys High School until Hana Tsukishima arrives at Toaru City.",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "126",
+    "title": "Osananajimi wa, Nyaa to Naite Skirt no Naka",
+    "description": "In the cat-filled town of Miyakecho, there is an urban legend that says cats sometimes put curses on humans. Ichika and Maki were once childhood friends until a certain incident led them to stop talking to each other. When Maki rushes in to save a mysterious white cat from an oncoming truck, however, she somehow finds herself under the cat's curse with Ichika being the only one she can turn to for help.",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "127",
+    "title": "Arknights: 123 Rhodes Island!?",
+    "description": "Get to know the operators with Amiya and the Doctor!",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "128",
+    "title": "Hand Jumper",
+    "description": "Sayeon Lee despises Aberrants. They wreak havoc on society with their strange, unthinkable powers. It's just too bad she happens to be an Aberrant herself! Forced to fend for her life in the deadly Aberrant Corps, she's determined to make it to the top, and her unusual ability should help her -- if she can figure out how to use it in time.",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "129",
+    "title": "Cookie Run World History",
+    "description": "",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "130",
+    "title": "Catenaccio",
+    "description": "Yataro Araki, a member of the Tojo High School soccer team, has big dreams. Within a decade, he sees himself conquering the soccer world’s loftiest peak: European “football!” Fast forward to what may be his last soccer match before graduation, the match that will make or break his dreams. Having thus far failed to attract the attention of scouts, he is now desperate to do whatever it takes to prove himself. Yataro is prepared to get his hands dirty if it means winning. If it means standing at the top! Welcome to the world of international football! Nothing is sacred, no rule is left unbroken! Not when victory is on the line!",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "131",
+    "title": "Lies of the Sheriff Evans: Dead or Love",
+    "description": "The story follows lawman Elmore Evans, who despite being one of the most amazing gunslingers in the West can't get rid of his bad luck in his romantic life.",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "132",
+    "title": "Disney Twisted Wonderland: The Comic—Episode of Scarabia",
+    "description": "On the way to his target audition, Yu, an ordinary high school student, encounters a mysterious carriage and is taken away. When he wakes up, he finds himself in a parallel world called \"Twisted Wonderland\"!? Yu has enrolled in Night Raven College, a school for training magicians, and has become accustomed to school life. While many students return home for the winter holidays, Yu and Grimm remain at school, and there they meet a student...",
+    "author": "",
+    "genres": [
+      "Unknown"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "101",
+    "title": "Ansatsu Skill de Isekai Saikyou ~Renkinjutsu to Ansatsujutsu wo Kiwameta Ore wa, Sekai wo Kage kara Shihai suru~",
+    "description": "Late has just accepted an assassination request from a mysterious client. To his surprise, it was actually the goddess Mises, a goddess from another world whose existence was on the brink of destruction after her defeat in war. Mises' quest... is to assassinate Masra Dzur, another god in her world. Can Late, the killer with a 99.9% success rate, fulfill this otherworldly assassination?",
+    "author": "",
+    "genres": [
+      "Action",
+      "Romance",
+      "Comedy",
+      "Adventure",
+      "Virtual Reality",
+      "Isekai",
+      "Adaptation"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "102",
+    "title": "Detective Conan: The Culprit Hanzawa",
+    "description": "The manga stars the black-silhouetted \"criminal\" who appears in Meitantei Conan series who represents the mystery culprits.",
+    "author": "",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Slice of Life",
+      "Mystery"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "103",
+    "title": "Heimin no Watashi desu ga Koushaku Reijou-sama o Taburakashite Ikiteimasu",
+    "description": "Lilah, a commoner, is cast out of the only home she's ever known, finding herself lost in the depths of a forest, on the brink of death. Fate, however, has other plans, as she miraculously reunites with Eva, a young lady of nobility she once played with as a child, narrowly escaping a dire end. Moreover, this encounter leads Lilah to an unexpected role as Eva's personal bodyguard. Now, she faces the ultimate challenge: can a commoner like her rise above and excel in the world of the nobility?\n\n---\n**Links:**\n- [Alternative Amazon Link (Individual Chapters)](https://www.amazon.co.jp/dp/B0CBGWG5K2)",
+    "author": "",
+    "genres": [
+      "Action",
+      "Romance",
+      "Comedy",
+      "Magic",
+      "Girls' Love",
+      "School Life",
+      "Fantasy"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "104",
+    "title": "The Super Doctor From 2089",
+    "description": "Ye Wutian, a brilliant doctor from 2089, somehow time-travels back to the year 2019 in a lab experiment explosion. He wakes up in a wild mountain, and then manages to save a girl, Li Wan'er who's been bitten by a venomous snake. With his apparently superior knowledge in medicine, Ye Wutian embarks on an amazing journey in the beginning of the 21st century…",
+    "author": "",
+    "genres": [
+      "Sci-Fi",
+      "Time Travel",
+      "Action",
+      "Long Strip",
+      "Comedy",
+      "Harem",
+      "Medical",
+      "Fantasy",
+      "Web Comic",
+      "Full Color"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "105",
+    "title": "Leveling Up In An Exclusive Dungeon",
+    "description": "Guilds are there to protect hunters, right? Right...? Nope. All they seem to protect is their own interests. As they monopolize hunting grounds, the monsters, and even the XP points, Jinhyeok, our MC and a hunter without guild affiliation, is left bouncing from one part-time job to another just to scrape by. What he needs is an opening. A shot. A crack in the system. Then the universe provides one. In his attic. What?!",
+    "author": "",
+    "genres": [
+      "Monsters",
+      "Action",
+      "Long Strip",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Web Comic",
+      "Adaptation",
+      "Full Color"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "106",
+    "title": "Si Ling Fashi! Wo Ji Shi Tianzai",
+    "description": "In a world where magic and monsters exist, Lin Moyu has hit the age of acquiring his very own profession. While most would be lucky just to obtain a high-level combat class, Moyu becomes the ultrarare necromancer! Being the first and only one of his kind, he has no idea of the potential he possesses on his journey to level up and face great challenges. What new heights will Moyu achieve with his unique army of undead?\n\n---\n\n**Original Webtoon:**  \n- [KuaiKan Manhua](https://www.kuaikanmanhua.com/web/topic/18819/)\n\n**Official Translations:**  \n- **English**: \n  - [Tappytoon](https://www.tappytoon.com/en/book/necromancer-the-ultimate-scourge)\n  - [Webnovel](https://www.webnovel.com/comic/necromancer-the-ultimate-scourge!_32189339808001201)\n  - [Webcomics](https://webcomicsapp.com/comic/The-Necromancer-Scourge-Incarnate/67d2567f62661d2b396f4062)\n  - [WEBTOON](https://www.webtoons.com/en/action/necromancer-the-ultimate-scourge/list?title_no=9767)\n- [Japanese](https://jp.piccoma.com/web/product/159311)\n- [French](https://www.webtoons.com/fr/action/catastrophic-necromancer/list?title_no=6587)\n- [Russian](https://recomics.org/manga/necromancer-i-am-the-disaster)",
+    "author": "",
+    "genres": [
+      "Monsters",
+      "Action",
+      "Long Strip",
+      "Martial Arts",
+      "Adventure",
+      "Magic",
+      "Isekai",
+      "School Life",
+      "Full Color"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "107",
+    "title": "Henjo ~Hen na Joshi Kousei Amaguri Senko~",
+    "description": "Amaguri Senko is a high school girl with a cool personality (as in kuudere) and a big pervert. She openly reads porn, masturbates and isn't perturbed in the slightest at the sight of penises and such. The story centers around Senko's daily life with two male handymen working for her father's company  which she also helps out with, Takamura Ryou and Sugita Kouhei. Takamura ends up being constantly sexually harassed by Senko, partially due to his phimosis dick that caught her interest,  but little did he know, she wasn't joking when she bluntly said \"I like you\"...",
+    "author": "",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Slice of Life"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "108",
+    "title": "Ao Ashi",
+    "description": "Aoi Ashito is a third year middle school student from Ehime. Behind his raw game hides his immense talent, but Ashito suffers a huge setback because of his overly straightforward personality. One day the youth team manager of J1 club Tokyo City Esperion, Fukuda Tetsuya, appears in front of him. Fukuda sees his limitless potential and invites him to take part in his team's tryouts in Tokyo.\n___\n- **Won the 65th Shogakukan Manga Award for General Manga in 2019.**",
+    "author": "",
+    "genres": [
+      "Award Winning",
+      "Sports",
+      "Drama",
+      "School Life",
+      "Slice of Life"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "109",
+    "title": "Sentai Daishikkaku",
+    "description": "Thirteen years ago, suddenly the Villainous Army of evil appeared in their gigantic floating castle 10,000 meters in the sky to invade Earth! The villainous army have reviving capabilities that make them immortal, making them a serious threat to humanity. To protect us against these invaders, the Divine Dragon Rangers, the Dragon Keepers, wield their miraculous powers and their weapons, Divine Tools, and continuously fight for our safety! The assault of the Villainous Army! The vigilance of the Dragon Keepers! Will they succeed in their conquest...?",
+    "author": "",
+    "genres": [
+      "Sci-Fi",
+      "Monsters",
+      "Action",
+      "Psychological",
+      "Comedy",
+      "Superhero",
+      "Adventure",
+      "Gore",
+      "Drama",
+      "Aliens",
+      "Supernatural",
+      "Mystery"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "110",
+    "title": "Jǐnguǎn Shì Xuébà Xìtǒng, dàn Xiǎosū Tóngxué de Hǎogǎndù Zài Wěnbù Tíshēng",
+    "description": "The stubborn, hyper-competitive top student Chu Xun, who has to be the best his whole life, just happens to run into Su Muqing, a genius girl who can read minds. He’s determined to become the number one student in the entire school!\n\nIt’s here! The Top Student System has arrived! Chu Xun’s learning ability is going up! Up! Up!\n\nBut… why do the system’s tasks feel so much like... dating?!\n\nAnd so… Classmate Su’s affection level goes up~ up~ up~",
+    "author": "",
+    "genres": [
+      "Long Strip",
+      "Romance",
+      "Comedy",
+      "School Life",
+      "Slice of Life",
+      "Full Color"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "111",
+    "title": "Mairimashita! Iruma-kun",
+    "description": "Hopeless pushover Iruma Suzuki has found himself in a devil of a predicament... His trashy parents have sold off his soul, and he now has to live and attend school in the Netherworld. But with his unique survival skills and doting demon grandfather’s support, Iruma will surely make it through this hellish experience. He'll just need to subjugate rival classmates, summon familiars, and more, all while never revealing that he's human... Easy as *aleph, bet, gimel*, right?",
+    "author": "",
+    "genres": [
+      "Monsters",
+      "Action",
+      "Demons",
+      "Romance",
+      "Comedy",
+      "Crossdressing",
+      "Magic",
+      "Isekai",
+      "School Life",
+      "Fantasy"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "112",
+    "title": "FAIRY TAIL: 100 Years Quest",
+    "description": "After overcoming the threat of Acnologia and Zeref, Fairy Tail has become stronger and more energetic! The 100 year quest which Natsu and company left for, and also to the members who had remained at the guild, something new is going to happen!? Although the story was supposed to have concluded, a new adventure now begins!\n___\n**Official English Volumes:** [Kodansha USA](https://kodansha.us/series/fairy-tail-100-years-quest/)",
+    "author": "",
+    "genres": [
+      "Loli",
+      "Monsters",
+      "Action",
+      "Demons",
+      "Ghosts",
+      "Animals",
+      "Romance",
+      "Comedy",
+      "Samurai",
+      "Adventure",
+      "Magic",
+      "Drama",
+      "Fantasy",
+      "Monster Girls",
+      "Slice of Life",
+      "Supernatural",
+      "Mystery"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "113",
+    "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
+    "description": "Percival, a kind boy, lives with his grandfather in a remote place called \"God's Finger\". However, the world will not allow him to live in peace. An encounter with a mysterious knight changes their fate, and a shocking secret is revealed. The boy sets out on an endless journey.",
+    "author": "",
+    "genres": [
+      "Action",
+      "Demons",
+      "Comedy",
+      "Adventure",
+      "Magic",
+      "Drama",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "114",
+    "title": "Kyomu Nee-chan wa Kamatte Hoshii",
+    "description": "The boy's friend is a beautiful 34-year-old NEET.\n\nYamaguchi-kun is an ordinary boy, but he has a friend. She’s his neighbor, a very beautiful older woman known a \"Kyomu-nee.\" However, her true nature is that of a useless person—a jobless NEET and heavy drinker who spends day and night lamenting life without working!!\nHaving ended up being liked by Kyomu-nee, Yamaguchi-kun tries to keep things at the level of friendship, but her complete lack of boundaries leaves him blushing every day. \nAt this rate, it feels like she might end up warping his tastes…!?\n\nA heavy-drinking, jobless NEET, yet beautiful and with far too many openings!!! A cute neighbor comedy where she depends on you!!!!",
+    "author": "",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Shota"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "115",
+    "title": "Renegade",
+    "description": "A lighthearted comedy about everyday life, where the smallest moments turn into the funniest situations. From random thoughts to relatable struggles, nothing ever goes as expected.",
+    "author": "",
+    "genres": [
+      "Thriller",
+      "Reincarnation",
+      "Comedy",
+      "Self-Published",
+      "School Life",
+      "Web Comic",
+      "Slice of Life"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "116",
+    "title": "Osananajimi ga Kyouteki desu",
+    "description": "After entering high school, Makoto is, for the first time in a while, classmates again with her childhood friend, Tsukasa. Just when she started being happy because she can talk more with Tsukasa again, she is now being led around by his casual words and actions instead! Hey... was that intentional? Is this love?!\n\nA love comedy about the fluffy and heart pounding daily lives of two childhood friends now begin!",
+    "author": "",
+    "genres": [
+      "Romance",
+      "School Life",
+      "Slice of Life"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "117",
+    "title": "Otonashi-sou na Danshi no Tondemonai Himitsu wo Shite Shimatta",
+    "description": "The boy sitting next to me has ear piercings...?!\n\nUrai, is a real mystery. The unexpected words and actions of the mysterious boy, Urai, will make you fainter in agony, you can't take your eyes off the gap between the quiet-looking boy!\n\nIt's the beginning of a sparkling and exciting school life!",
+    "author": "",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "School Life",
+      "Slice of Life"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "118",
+    "title": "Ki ni Natteru Hito ga Otoko ja Nakatta",
+    "description": "Fashionable and upbeat high schooler Aya falls head over heels for an employee at a local CD shop. He’s got an air of mystery about him, always dressed well, and has impeccable taste in music. Little does she know — this supposedly male employee is actually her female classmate Mitsuki!\n\nMitsuki generally keeps to herself, but since her seat is right next to Aya’s, she can't help but be extremely aware of the other’s crush. Revealing the truth is out of the question — but perhaps getting closer to Aya wouldn’t be so bad...\n\n***Overwhelming winner in the Web category of the 2023 Tsugimanga Awards (by Kadokawa).***",
+    "author": "",
+    "genres": [
+      "Award Winning",
+      "Romance",
+      "Girls' Love",
+      "School Life",
+      "Web Comic",
+      "Slice of Life",
+      "Music",
+      "Gyaru"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "119",
+    "title": "The Climber",
+    "description": "On his first day of transferring to a new high school, a loner named Mori Buntarou, is cajoled by a classmate into climbing the school building. Despite knowing that one misstep could send him spiraling to his death, he moves forward, and upon finally reaching the top, Mori experiences a sense of fulfillment. That feeling, which seems to be telling him, \"You're alive!\" gives birth to an adrenaline for rock-climbing.",
+    "author": "",
+    "genres": [
+      "Award Winning",
+      "Psychological",
+      "Sports",
+      "Philosophical",
+      "Drama",
+      "Tragedy"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "120",
+    "title": "Gǒu Yǔ Yú Zhī Zòu",
+    "description": "The Hou brothers left their original deep-sea dragon palace and finally arrived in a land city. Life here is indeed more exciting and lively than they imagined, every day is incredibly fulfilling, and they've made many new friends… Here you can see everything familiar from your life, and maybe one day you'll even encounter that beast around the corner.",
+    "author": "",
+    "genres": [
+      "Animals",
+      "Long Strip",
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "status": "hiatus",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "121",
+    "title": "Death Game Manga no Kuromaku Satsujinki no Imouto ni Tensei shite Shippai shita",
+    "description": "One day, Mai remembers that her perfect stepbrother is a character in a death game manga, and that one year later he will hold a death game involving all of his classmates, killing his sister in the process. Mai plans a variety of surprises for her stepbrother every day based on what he said in the manga, \"Nothing unexpected happened, so I was bored,\" but as the days go by, he begins to show abnormal signs... Only I know what my brother's really like. Pepu's comicalization of Inada Sou's popular web novel!",
+    "author": "",
+    "genres": [
+      "Reincarnation",
+      "Psychological",
+      "Romance",
+      "Incest",
+      "Survival",
+      "Isekai",
+      "Horror",
+      "Mystery",
+      "Adaptation"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "122",
+    "title": "Bishoujoka Shita Ojisan dakedo, Gachikoi Sarete Komattemasu",
+    "description": "Only terrible looks are waiting for the ex-uncle who turns into a beautiful girl and gets carried away...? Causal retribution or happy ending? Find out for yourself!!",
+    "author": "",
+    "genres": [
+      "Genderswap",
+      "Loli",
+      "Psychological",
+      "Comedy",
+      "Drama",
+      "Slice of Life"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "123",
+    "title": "Yuiitsu Muni no Saikyou Tamer: Koku no Subete no Guild de Monzenbarai sareta kara, Takoku ni Itte Slow Life Shimasu",
+    "description": "Tamer is a profession that can tame monsters and use them as familiars. That was the vocation of the main character Kohaku, but he couldn't tame ordinary monsters.\n\nAs a result, he was called \"incompetent\" and banished from the guild. However, he had a special power that allowed only him to tame the mythical \"Phantasma\", a legendary species so powerful and so rare that they have never been seen in public.",
+    "author": "",
+    "genres": [
+      "Monsters",
+      "Action",
+      "Comedy",
+      "Adventure",
+      "Magic",
+      "Fantasy",
+      "Adaptation"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "124",
+    "title": "30 made Hitori Dattara Issho ni Kurasou tte Itta yo ne ?",
+    "description": "I thought it was just a drunken promise: “If we're both still single by 30, let's live together.”\n\nJust before her 30th birthday and in the dead of night, a suspicious figure appeared at Tsukiko's door—it was Sora, the one whom she'd made that promise with.\n\nNot exactly glamorous, but surprisingly fun—a thirty-something cohabitation adventure♪\n\nーFrom Takecomic.jp",
+    "author": "",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Girls' Love",
+      "Slice of Life"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "125",
+    "title": "Reiwa no Dara-san",
+    "description": "On a stormy day, a landslide destroys a fence, and siblings who ventured into a long-prohibited area encounter a terrifyingly bizarre creature...\n\n\"I'm a curse god, you know!? Don't you think anything of this grotesque form?!?\"\n\nThe unflappable siblings, rather than being scared, casually call the creature \"Dara-san\" and grow fond of her!?\n___\n**Additional Links:**\n- Alt Official Raw: [niconico Manga](https://manga.nicovideo.jp/comic/57766)\n- [Official X](https://twitter.com/darasan_PR)",
+    "author": "",
+    "genres": [
+      "Comedy",
+      "Crossdressing",
+      "Gore",
+      "Horror",
+      "Monster Girls",
+      "Shota",
+      "Slice of Life",
+      "Supernatural",
+      "Mystery"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "126",
+    "title": "Boku no Kokoro no Yabai Yatsu",
+    "description": "Following Ichikawa Kyoutarou, a teenage boy belonging to the very bottom caste of his school, this work details his troubled interactions with a certain classmate, and his attempt to hide murderous impulses that find themselves in the darkest recesses of his soul. In reality, though, it's a sweet youth rom-com between a messed up boy and a bright, if somewhat strange, beautiful girl.\n___\n**Awards:**\n- Won the 2020 Next Manga Award in the Web category.\n- Was nominated for the 2020 and 2021 Manga Taishou Award.\n- Won the top prize of the 2021 Tsutaya Comic Awards.\n\n**Additional Links:**\n- [Official X](https://x.com/boku__yaba)",
+    "author": "",
+    "genres": [
+      "Award Winning",
+      "Romance",
+      "Comedy",
+      "School Life",
+      "Slice of Life"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "127",
+    "title": "Crows Zero Reboot",
+    "description": "No description available",
+    "author": "",
+    "genres": [
+      "Action",
+      "Drama",
+      "School Life",
+      "Delinquents"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "128",
+    "title": "Toaru Majutsu no Index Gaiden - Toaru Kagaku no Mental Out",
+    "description": "The Tokiwadai student council election is approaching. Shokuhou Misaki, one of the leading candidates, is in the midst of an election campaign in spite of her own expectations due to the people around her and the fate of being the head of the largest clique...!!",
+    "author": "",
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Comedy",
+      "Drama",
+      "School Life",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "129",
+    "title": "Mairimashita! Iruma-kun: If Episode of Mafia",
+    "description": "The beloved characters of Mairimashita! Iruma-kun star in this Mafia-based spinoff! Young Iruma saves an injured mob boss from death... and then becomes his grandson!?",
+    "author": "",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Survival",
+      "Mafia",
+      "Drama",
+      "Delinquents",
+      "Police",
+      "Slice of Life"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "130",
+    "title": "Yuusha Party wo Kubi ni Natta node Kokyou ni Kaettara, Member Zenin ga Tsuite Kitan da ga",
+    "description": "\"Jin... I'm expelling you from the party.\"\n\nJin had been adventuring with his childhood friend, Reki the Hero, aiming to defeat the Demon Lord. Along the way, they were joined by Yuuri the Saint and Ryushika the Sage, and at last, they reached the Demon Lord's castle. However, just before the final battle, Jin was suddenly told he was no longer part of the party. Heartbroken, Jin returned to his hometown... But soon after, the remaining party members—who swiftly defeated the Demon Lord—began showing up one after another with marriage proposals!?",
+    "author": "",
+    "genres": [
+      "Demons",
+      "Romance",
+      "Comedy",
+      "Magic",
+      "Harem",
+      "Fantasy",
+      "Slice of Life",
+      "Adaptation"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "131",
+    "title": "Parashoppers",
+    "description": "Mitsusada, a high school student with a unique way of looking at things, accidentally started a smartphone application that allows him to buy and sell special abilities. Suddenly, he is attacked by another person with special abilities, and he decides to use his abilities to fight back.",
+    "author": "",
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Comedy",
+      "Survival",
+      "Supernatural"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "132",
+    "title": "Sensou Kyoushitsu",
+    "description": "In Arboral Year 1294, the world is dominated by nine massive towers known as the Spires, remnants of an ancient civilization. Filled with lost secrets and powerful knowledge, nations struggle to possess them. Luca is a bugler in a mercenary company who wants nothing more than to leave the battlefield behind and become a true musician, a maestro. But marked as one of the enigmatic Branch-hexed, and gifted with the strange ability to see the sound of his instrument, Luca finds himself drawn reluctantly into a war of epic proportions!\n\nLeft for dead after a battle, Luca is saved by the mysterious Pontiff and learns he is not the only person with unusual powers. The Pontiff has formed a special team of Branch-hexed individuals he plans to use to help him defeat rival empires, and Luca learns that his powers, rather than being an escape from the battlefield, now force him to be a muse of massacre.",
+    "author": "",
+    "genres": [
+      "Action",
+      "Psychological",
+      "Military",
+      "Fantasy",
+      "Mystery",
+      "Music",
+      "Tragedy"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "133",
+    "title": "Saikin Haitta Shiro Madoushi ga Party Crusher de, Ore no Isekai Boukensha Seikatsu ga Houkai no Kiki na Ken ni Tsuite",
+    "description": "Toma was transported to another world due to an accident caused by a female circle crusher. So, he made friends in the new world and rebuilt his life as an adventurer. However, then, another girl joined his party... Will his life collapse once again because of another circle crusher who also exists in this new world!?",
+    "author": "",
+    "genres": [
+      "Monsters",
+      "Action",
+      "Demons",
+      "Romance",
+      "Comedy",
+      "Adventure",
+      "Magic",
+      "Harem",
+      "Isekai",
+      "Fantasy"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "134",
+    "title": "Yamiochi Last Boss Reijou no Osananajimi ni Tensei Shita. Ore ga Shindara Bad End Kakutei nanode Saikyou ni Natta kedo, Mou Yamiochi \"Yandereka\" Shitemasen ka?",
+    "description": "\"If you were to disappear... I might just lose myself.\"\n\nArcs is reborn into the world of the wildly popular otome game Celestia Kingdom. He thought he was just a background character—until it's revealed he's actually the childhood friend of the final boss! Determined to avoid the bad ending, he throws himself into his daily life as her servant. But it seems the true cause of her descent into darkness is... her childhood friend!?",
+    "author": "",
+    "genres": [
+      "Reincarnation",
+      "Action",
+      "Romance",
+      "Magic",
+      "Isekai",
+      "School Life",
+      "Fantasy",
+      "Villainess",
+      "Adaptation"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "135",
+    "title": "Yane no Shita no Artemis",
+    "description": "A prodigy of science and a solitary genius—yet terrible at so many things!?\n\nPoor university student Sanosuke Saraki unexpectedly reunites with his admired genius classmate, Koharu Kobachi, at his part-time job back at his old school. However, this supposed genius is now a \"5th year high school student\" who has repeated her second year in a row...! Saraki's mission is to \"make Koharu graduate by the end of the year.\"",
+    "author": "",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Harem",
+      "School Life"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "136",
+    "title": "Ookami-kun wa Hayakawa-san ni Katenai",
+    "description": "A story about the quiet transfer student, Ogami-kun. The blood of a werewolf flows through him. One day, while Ogami-kun was leaving school as a wolf, he discovered the hidden side of Hayakawa, a classmate who normally hates his guts…",
+    "author": "",
+    "genres": [
+      "Animals",
+      "Romance",
+      "Comedy",
+      "Drama",
+      "School Life",
+      "Supernatural"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "137",
+    "title": "Bokura no Kiseki",
+    "description": "From a young age, Minami Harusumi has had recurring dreams of Veronica, a princess whose kingdom is on the verge of destruction. He believes them to be recollections of his past life, and that he is her reincarnation. Because of this, he is ridiculed by his classmates. One day, when the mockery escalates into bullying, he rediscovers magic—something Veronica had studied and used. Reassured his past life is not merely a fantasy, Minami tries to learn more about his past memories and the reason behind them…",
+    "author": "",
+    "genres": [
+      "Reincarnation",
+      "Action",
+      "Psychological",
+      "Romance",
+      "Magic",
+      "Drama",
+      "School Life",
+      "Fantasy",
+      "Supernatural",
+      "Mystery",
+      "Tragedy"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "138",
+    "title": "•REC",
+    "description": "A salaryman Matsumaru Fumihiko 26, asked his colleague miss Tanaka to watch a movie with him, but she doesn't show up at the movie theater. As he is about to throw away the ticket, a rookie seiyuu girl named Onda Aka aged 20 asked for the ticket and they end up watching the movie together. On their way home they notice that they live near each other. That night, Aka's apartment burns down. Matsumaru offers his help and they end up with Aka living with him.   \nThey have to keep it a secret to secure their jobs. What will happen to the relationship that is \"more than friends but less than lovers\"…  \n  \n\n\n---",
+    "author": "",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "139",
+    "title": "Boyish Kanojo ga Kawaisugiru",
+    "description": "Akira is boyish in both looks and personality—and Daichi, her childhood friend turned boyfriend by their first year of high school, thinks she's too cute. Girly outfits aren't her thing... so why does he suddenly find her in a cat-eared maid costume at the school festival?! Awkward but sweet moments abound in this wholesome friends-to-lovers romcom.\n\n*Source: Manga UP! Global*\n___\n**Note:** Originally published as 他校のボーイッシュ彼女 (Takou no Boyish Kanojo) as a web manga released on the author's Twitter account since September 4, 2024 and published as ボーイッシュ彼女が可愛すぎる (Boyish Kanojo ga Kawaisugiru) in print by Square Enix since March 22, 2025.",
+    "author": "",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "School Life",
+      "Slice of Life"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "140",
+    "title": "Tsuihousha Shokudou e Youkoso! ~Saikyou Party o Tsuihousareta Ryourinin (Lv. 99) wa, Inaka de Nengan no Boukensha Shokudou o Hirakimasu!~",
+    "description": "After getting kicked out of the strongest party, the level 99 chef fulfills his dream of opening an adventurer diner in the countryside.",
+    "author": "",
+    "genres": [
+      "Loli",
+      "Action",
+      "Romance",
+      "Comedy",
+      "Adventure",
+      "Magic",
+      "Fantasy",
+      "Slice of Life",
+      "Cooking",
+      "Adaptation"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "141",
+    "title": "Jib-i Eobs-eo",
+    "description": "Haejoon Goh, who ran from home, and Eunyung Baek, the problem child who lives in a tent.   \r\nThese two, who met under terrible circumstances, are forced to live together in an abandoned dormitory.   \r\nThis is a story of difficult growth between two people who hate both the dorm and each other.",
+    "author": "",
+    "genres": [
+      "Award Winning",
+      "Ghosts",
+      "Long Strip",
+      "Comedy",
+      "Drama",
+      "School Life",
+      "Web Comic",
+      "Slice of Life",
+      "Full Color"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "142",
+    "title": "Danjo-hi 1:39 no Heikou Sekai wa Omoi no Hoka Futsuu",
+    "description": "Satou Sou is accidentally swapped with himself in a parallel world with a male/female ratio of 1:39. He finds a kind family and lovely women at the place where he was switched. Seeing the outside of these women, he's relieved to see that the number of men and women has changed, but not much else. However, their inner lives are filled with conflicts and troubles.\n___\nAlternative version: [Danjohi 1:39 no Heikou Sekai wa Omoi no Hoka Futsuu [R18]](https://mangadex.org/title/dcf01405-2bb3-40a4-bd8b-af1eb90c8e8e)",
+    "author": "",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Incest",
+      "Harem",
+      "Isekai",
+      "Drama",
+      "School Life",
+      "Web Comic",
+      "Slice of Life"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "143",
+    "title": "BiORG TRiNiTY",
+    "description": "Opening holes in the palms of both hands, the “Bio Bug” disease enables people to absorb and then fuse with things they like. In a world made up of precarious balances, what will become of love, of youth? Here the curtain rises on a really incredible pair, delineated in a brand new youth-ensemble cast.",
+    "author": "",
+    "genres": [
+      "Action",
+      "Romance",
+      "Comedy",
+      "Drama",
+      "Supernatural",
+      "Mystery"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "144",
+    "title": "Sore ga Meido no Kanna desu",
+    "description": "After entering high school, Rikuto, the future head of the Ayamejou-Kouji family, begins living alone in a penthouse apartment at the top of a luxury tower. However, his new life takes an unexpected turn when Kanna, a maid with a knack for eccentric behavior and conversations, arrives. With every action and word of Kanna's being packed with weirdness, Rikuto can't stop reacting and retorting. He's torn, does he want her to act normal, or stay just the way she is?",
+    "author": "",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "145",
+    "title": "Yǒu Shòu Yān",
+    "description": "\"In this realm mythological creatures roam, descendant of the nine heavens they call home.\" \n\nSibuxiang, a mythical deer-man couch potato, is kicked out of heaven and assigned to support the mythological creatures wandering the human world. He meets and goes on adventures with his friends: the energetic, food loving Pixiu named Pipi, the fanatic moon bunny Tuye, the banished-from-heaven mouse brothers Jinjiao and Yinjiao, and many others. What kind of adventures will they take on?",
+    "author": "",
+    "genres": [
+      "Animals",
+      "Long Strip",
+      "Comedy",
+      "Fantasy",
+      "Slice of Life",
+      "Supernatural",
+      "Tragedy"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "146",
+    "title": "The Calling Dragon",
+    "description": "Follow Ryu as he plays in the mahjong world with gangsters, crooks, and all sorts of people.  \n  \n**Included one-shots:**  \nVolume 9:  \n- Grasping at the Clouds (雲をつかむ)  \n- A Couple of Things I Know About Her (彼女について私が知っている二、三の事柄)",
+    "author": "",
+    "genres": [
+      "Traditional Games",
+      "Psychological",
+      "Sports",
+      "Mafia",
+      "Drama",
+      "Mahjong"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "147",
+    "title": "RTA Sousha wa Game Sekai kara Kaerenai",
+    "description": "Our protagonist, the speedrunning emperor of *Another Verse*, suddenly feels sleepy in the middle of practice. When he awakens, the familiar opening of *Another Verse* is playing right before his eyes!? In this godly environment where his body is moving better than usual, he has to speedrun! Clear the game world faster than anyone!",
+    "author": "",
+    "genres": [
+      "Reincarnation",
+      "Genderswap",
+      "Monsters",
+      "Action",
+      "Demons",
+      "Comedy",
+      "Adventure",
+      "Video Games",
+      "Crossdressing",
+      "Magic",
+      "Isekai",
+      "Fantasy",
+      "Vampires",
+      "Monster Girls"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "148",
+    "title": "Karada Sagashi",
+    "description": "Look forwards to the ghost story of the red person. \"Hey, Asuka… search for my body\". At school in the middle of the night, Asuka and her friends search for the scattered body-parts. If they don't find the entire body, the 9th November is repeated and the red person will continue to kill them. Who is the red person? Why is Haruka asking them to search for the body-parts?",
+    "author": "",
+    "genres": [
+      "Psychological",
+      "Sexual Violence",
+      "Drama",
+      "School Life",
+      "Horror",
+      "Supernatural",
+      "Tragedy"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "149",
+    "title": "Choudokyuu Cheat Akuyaku Reijou no Karei Naru Fukushuutan",
+    "description": "The protagonist awakens to find herself reincarnated as Lunaria il von Solfege, her beloved villainess from her favorite game. However, along with this new identity come Lunaria's tragic memories—public condemnation, complete abandonment, and ultimately, a desperate attempt to take her own life with a dagger. \"You can leave everything to me, Lunaria. Now that I am you, I will never let them get away with this,\" she vows.\n\n*Source: K Manga*",
+    "author": "",
+    "genres": [
+      "Reincarnation",
+      "Action",
+      "Video Games",
+      "Magic",
+      "Isekai",
+      "Fantasy",
+      "Villainess",
+      "Adaptation"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "150",
+    "title": "Gendai Ten'i no Daini Ouji",
+    "description": "No description available",
+    "author": "",
+    "genres": [
+      "Isekai",
+      "Fantasy",
+      "Adaptation"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "151",
+    "title": "Hana Himeru Kimi no Meteor",
+    "description": "\"On that night, I became the cursed monster's bride—\"\n\nStella, the eldest daughter of the Viscount Quinwitch, though she was adopted, lived happily with her kind family. However, one day, Stella's younger sister Lilinette was chosen as the \"Monster's Bride\". Once a century, a cursed monster confined to a castle requires a sacrifice, so Stella resolves to go there in place of Lilinette. And there, she meets the monster - a bloodstained vampire named Lavi.",
+    "author": "",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Fantasy",
+      "Vampires",
+      "Slice of Life"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "152",
+    "title": "Dark Gathering",
+    "description": "Keitarou, who's always had a disposition for attracting spirits, gets hired as a tutor for a little girl named Yayoi who can see spirits and is searching for the spirit that took away her mother.",
+    "author": "",
+    "genres": [
+      "Action",
+      "Ghosts",
+      "Gore",
+      "Drama",
+      "Horror",
+      "Supernatural",
+      "Mystery"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "153",
+    "title": "Mimi",
+    "description": "Her name is Mimi, she's a completely normal and well adjusted human being.\n**This is her story.**",
+    "author": "",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Self-Published",
+      "Slice of Life"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "154",
+    "title": "Darwin Jihen",
+    "description": "The Animal Liberation Alliance, an eco-terrorist organization, rescues a pregnant chimpanzee from an animal testing lab—only for it to give birth to a half-human, half-chimpanzee \"humanzee\" named Charlie! Fifteen years later, Charlie's human foster parents are finally ready to send him to a normal high school, where he makes his first friend: a human girl named Lucy. In the meantime, however, the ALA's stance has become ever more extreme, and now they're here to drag Charlie into their terrorist plot...\n___\nWinner of the prestigious Manga Taisho, as well as an Excellence Award at the Japanese Media Arts Festival.",
+    "author": "",
+    "genres": [
+      "Thriller",
+      "Award Winning",
+      "Sci-Fi",
+      "Psychological",
+      "Animals",
+      "Romance",
+      "Crime",
+      "Survival",
+      "Office Workers",
+      "Philosophical",
+      "Drama",
+      "School Life",
+      "Delinquents",
+      "Slice of Life",
+      "Tragedy"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "155",
+    "title": "The Great Cleric",
+    "description": "Once upon a time, the God of Fate of Earth and the Chief God of Galdarudia made a wager. The God of Fate lost the bet and was forced to choose 10 common souls to hand over to the Chief God of Galdarudia. The Chief God of Galdarudia gave each of the 10 souls a new ability. Amongst those ordinary souls exists one salaryman who thwarted his fated demise. How will this man grow from this point forward? The God of Fate, the Chief God of Galdarudia, and even the author have no idea!\n\nOne man's story of turning blood, sweat, and tears into a successful living—literally! After his untimely death as the hardest-working salary man in Japan, Luciel is reincarnated into the magical fantasy world Galdardia. Always the man with a plan, he recreates himself to be a healer, and sets about making his way in the world. But while Luciel knows a thing or two about making money, he knows absolutely nothing about Galdardia. Will his good heart and great work ethic be enough to make him... The Great Cleric?\n\n(Kodansha)\n___\n* [Web Novel Raw](http://ncode.syosetu.com/n8697cx)",
+    "author": "",
+    "genres": [
+      "Reincarnation",
+      "Comedy",
+      "Adventure",
+      "Isekai",
+      "Fantasy",
+      "Adaptation"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "156",
+    "title": "Tensei Nanmin Shoujo wa Shimin-ken wo 0 Kara Mezashite Hatarakimasu",
+    "description": "Lill, who was reincarnated into a refugee settlement, is once again starving today. To make matters worse, she's being shunned because of her lazy parents and is on the verge of being exiled!? Determined to secure her place, she works hard every day to earn the trust of the residents, even if just a little. Her earnest efforts as a small girl gradually start to gain recognition from those around her. Her dream? To one day eat a warm, hearty meal until she's full! Then, she learns that even a refugee can live in town if they become a B-rank adventurer—so she sets her sights on escaping her refugee status!",
+    "author": "",
+    "genres": [
+      "Adventure",
+      "Magic",
+      "Isekai",
+      "Fantasy",
+      "Cooking",
+      "Adaptation"
+    ],
+    "status": "hiatus",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "157",
+    "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "description": "A 34-year-old NEET gets killed in a traffic accident and finds himself in a world of magic. Rather than waking up as a full-grown mage, he gets reincarnated as a newborn baby, retaining the memories of his past life. Before he can even properly move his body, he resolves to never make the same mistakes he made in his first life ever again and instead live a life with no regrets with the new one that was given to him. Because he has the knowledge of a middle-aged man, by the age of two, he has already become a prodigy and possesses power unthinkable for anyone his age and even older. Thus begins the chronicles of Rudeus Greyrat, son of swordsman Paul and healer Zenith, as he enters a new world to become the strongest mage known to man, with powers rivaling even the gods themselves.",
+    "author": "",
+    "genres": [
+      "Reincarnation",
+      "Action",
+      "Romance",
+      "Comedy",
+      "Adventure",
+      "Magic",
+      "Harem",
+      "Isekai",
+      "Drama",
+      "Fantasy",
+      "Adaptation"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "158",
+    "title": "Everyone Loves Her",
+    "description": "With the sudden acquisition of the ability, Kang Mina’s life is completely turned upside down. Now, she stands at a crossroads where a single choice can lead to irreversible consequences. Amidst anger, confusion, and a suppressed sense of justice, Mina struggles with how to use her newfound power as she embarks on a new journey. Where will her power take her?",
+    "author": "",
+    "genres": [
+      "Action",
+      "Long Strip",
+      "Drama",
+      "Web Comic",
+      "Supernatural",
+      "Mystery",
+      "Full Color"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "159",
+    "title": "Tonari no Seki no Yatsu ga Souiu Me de Mitekuru",
+    "description": "While you were admiring the girl in the next seat, she might be eyeing you up, too...?",
+    "author": "",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "School Life",
+      "Web Comic",
+      "Slice of Life"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "160",
+    "title": "Hoshino Hibana wa Mitsugareru",
+    "description": "Hoshino Hika (25 years old). Unemployed, but moderately enjoying life. What makes this possible is her overwhelming \"ability to be pampered.\" She possesses a mysterious charm that captivates certain people, allowing her to sustain her lifestyle with the support of those around her. What is her everyday life like, living outside the framework of \"market logic\"—the exchange of money for goods?",
+    "author": "",
+    "genres": [
+      "Comedy"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "161",
+    "title": "Break New World",
+    "description": "A world where human trustworthiness is ranked.\n\nKiriya, a boy who has had everything taken from him by the rulers, throws himself into a rebellion that will turn the world upside down—\n\nA forbidden sci-fi suspense story begins here.",
+    "author": "",
+    "genres": [
+      "Thriller",
+      "Sci-Fi",
+      "Psychological",
+      "Gore",
+      "Drama"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "162",
+    "title": "Oishinbo",
+    "description": "Around the offices of Tozai News, Shiro Yamaoka has a reputation for being over-blunt, under-ambitious, and generally an all-around slacker. So why has he been given the important job of coming up with the \"Ultimate Menu\" to celebrate the newspaper's 100th anniversary? Because he possesses qualities his other colleagues don't: an exquisitely discerning palate, an encyclopedic knowledge of food and drink, and a masterful touch in the kitchen.\n\n---\n- **Won the Shogakukan Manga Award for Seinen/General in 1987**",
+    "author": "",
+    "genres": [
+      "Award Winning",
+      "Psychological",
+      "Romance",
+      "Comedy",
+      "Office Workers",
+      "Drama",
+      "Slice of Life",
+      "Cooking",
+      "Tragedy"
+    ],
+    "status": "hiatus",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "163",
+    "title": "Neko Neko Youjo no Aijou Gohan ~Isekai de Mofumofu-tachi ni Ryouri wo Tsukurimasu!~",
+    "description": "No description available",
+    "author": "",
+    "genres": [
+      "Isekai",
+      "Fantasy",
+      "Slice of Life",
+      "Cooking",
+      "Adaptation"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "164",
+    "title": "Neo-man bo-in-dan mal-i-ya",
+    "description": "Following the advice of his imaginary friend Jason, who told him, \"Treat all girls like stones,\" Park Jin-yong starts seeing every girl as a stone. But then Sunwoo, a female student who doesn’t look like a stone, appears before him, and for the first time in five years, the sight of a girl’s face sends Jinyong’s happy little circuits into overdrive...",
+    "author": "",
+    "genres": [
+      "Long Strip",
+      "Romance",
+      "Comedy",
+      "School Life",
+      "Slice of Life",
+      "Full Color"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "165",
+    "title": "Daifuku-chan to Ouji-sama",
+    "description": "For the first time, 19-year-old Setoya Kinari is striking out on her own, swapping life in the countryside for the bright city lights of Tokyo before her first semester of college begins. She has a few goals for her new life. Among them is goal one: move into the rowdy but lovable Kitten Blue Boarding House. Goal two: find a new love in Tokyo. But this boarding house has one problem—an extremely hot resident named Towa who totally mistakes her for a stalker. Yikes",
+    "author": "",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "166",
+    "title": "Yuumei VTuber no Ani Dakedo, Nazeka Ore ga Yuumei ni Natteita",
+    "description": "I have a stepsister named Isuzu. She is a super popular VTuber with over 1 million subscribers, \"Isuzu Wine\". One day, she forgot to turn off her stream, and our candid conversation was accidentally broadcasted worldwide! The clip of the streaming incident quickly went viral, and overnight, I became an internet sensation...!? The more accidents happen, the more popular she gets!! Together with my overly beautiful and clingy stepsister, and a cute senior VTuber, I aim to rise in the streaming industry!",
+    "author": "",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Incest",
+      "Harem",
+      "School Life",
+      "Slice of Life",
+      "Adaptation"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "167",
+    "title": "Kinnikuman II-Sei: Ultimate Chojin Tag Arc",
+    "description": "The sequel series to \"Kinnikuman ii sei\".     A new threat appears to defeat the Legends, known only as the 'Time Chojin'. These mysterious villains travel through time, in their quest to eradicate the Justice Chojin. If their plan succeeds, they will erase the New Generation from history and usher in a new era of evil domination over the humans.     The New Generation must travel through time to stop the Time Chojin.    In the process, they earn the distrust of the Legends. The ensuing conflict triggers the start of the 'Ultimate Chojin Tag Tournament', which will pit Legends against New Generation, and Justice Chojin vs Evil Chojin. The winners will determine the future of the planet as we know it and reign supreme over Earth.",
+    "author": "",
+    "genres": [
+      "Time Travel",
+      "Monsters",
+      "Action",
+      "Demons",
+      "Animals",
+      "Comedy",
+      "Survival",
+      "Sports",
+      "Superhero",
+      "Martial Arts",
+      "Gore",
+      "Drama",
+      "Aliens"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "168",
+    "title": "J⇔M",
+    "description": "J is a lone assassin feared as \"untouchable\" in the underworld. Megumi is a lonely girl who has no place at home or school. When the two meet, an unexpected story begins.",
+    "author": "",
+    "genres": [
+      "Genderswap",
+      "Action",
+      "Comedy",
+      "School Life"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "169",
+    "title": "Douyara Ore wa Imadoki Gal na Toshiue Osananajimi kara Gekiomo Kanjou wo Mukerareteiru Rashii",
+    "description": "Yuito Kujo, a high school student, constantly compares himself to his exceptional older brother and sees himself as a lesser, \"degraded version.\" Caught in a spiral of self-deprecation, his adolescence turns even darker when he discovers that his childhood crush, Suzuno, is in love with his older brother. But just as Yuito begins to lose hope, Suzuno's older sister, Kano—a college gal—develops intense, overwhelming feelings for him...!?",
+    "author": "",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Adaptation",
+      "Gyaru"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "170",
+    "title": "Gyakkou Akujo wa Yaru Koto ga Ou sugiru",
+    "description": "Diana, the epitome of a noble lady, is sentenced to death for allegedly defaming Rachel, the beloved of her fiancé, Crown Prince August. As despair consumes her, a dainty girl whispers in her ear, “Thanks for playing the pathetic villainess ♡.” Though Diana is furious at being framed, it’s already too late—she is executed… or so it seemed. She wakes up on the very day of the fateful tea party that led to her downfall, time having been rewound! Determined, she vows, “This time, I’ll become an even greater villainess than her!”\n\nHowever, there’s only one hour left until the tea party! To clear her name and outwit Rachel by becoming the ultimate villainess, she has a lot to do—and barely any time to do it! A desperate race begins for a noble lady who sheds her mask of elegance to avoid her condemnation ending!\n\n(Source: Ichijinsha, translated)",
+    "author": "",
+    "genres": [
+      "Thriller",
+      "Reincarnation",
+      "Romance",
+      "Drama",
+      "Fantasy",
+      "Villainess",
+      "Adaptation"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "171",
+    "title": "Sugiyuki Kako to Mitai Asu",
+    "description": "Asaki Asakura is trapped in a time loop, repeating the exact same day over and over. He reaches out to Kako Sugiyuki, who seems to hold the key to breaking the cycle... but she has absolutely no intention of escaping!? A magical youthful rom-com!",
+    "author": "",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "School Life",
+      "Web Comic",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "172",
+    "title": "Meiten Restaurant",
+    "description": "As the distinguished son of a family who run a financial conglomerate, Gatarou Barazono took full advantage of his money to live a rosy life and enjoy it to its fullest. But one day, he suddenly got hit by a truck, and when he awoke, he found himself in the \"Afterlife!\" There, he finds the dubious-looking \"Meiten Restaurant\" (Underworld Restaurant), where the deceased are served their final meal before going to rest in peace...",
+    "author": "",
+    "genres": [
+      "Reincarnation",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Cooking",
+      "Supernatural"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "173",
+    "title": "Bartender à Tokyo",
+    "description": "(from ebookjapan):\n\nAfter training in Paris, bartender Ren Sajima returns to Ginza, Tokyo. His first customer, the owner of a long-established kimono shop, tells him that it is bothersome to have a wandering young bartender in Ginza, but...?",
+    "author": "",
+    "genres": [
+      "Psychological",
+      "Comedy",
+      "Office Workers",
+      "Philosophical",
+      "Drama",
+      "Slice of Life",
+      "Cooking"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "174",
+    "title": "Phony Fortune-Telling Gyaru",
+    "description": "No description available",
+    "author": "",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "4-Koma",
+      "School Life",
+      "Web Comic",
+      "Full Color",
+      "Tragedy"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "175",
+    "title": "Yurikon",
+    "description": "Omnibus series about several lesbian marriages.",
+    "author": "",
+    "genres": [
+      "Romance",
+      "Girls' Love"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "176",
+    "title": "Strange Lessons by Professor Terror",
+    "description": "University professor Tim Lorentz leads a unique seminar for new students on terrorism and cults. The terrifying lesson begins... What is terrorism really? What are the hidden roots of terrorism in everyday life? All the theories about terrorism that have been spread in the media so far are lies. Professor Terror teaches us the truth about \"terrorism and cults,\" which is scary to know, but even scarier not to know.",
+    "author": "",
+    "genres": [
+      "Comedy",
+      "Survival",
+      "Drama",
+      "School Life",
+      "Slice of Life",
+      "Mystery"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "177",
+    "title": "Saki - Love Letter (Doujinshi)",
+    "description": "Pairing: Toki Onjouji x Ryuuka Shimizudani",
+    "author": "",
+    "genres": [
+      "Oneshot",
+      "Girls' Love",
+      "Doujinshi"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "178",
+    "title": "Shachou to Sake to Hoshi",
+    "description": "After the sudden death of her father, 24-year-old Reina Izutsu finds herself at the helm of the family business, Izutsu Printing. Thrust into the role of company president, the pressure quickly hardens her demeanor—leaving her employees walking on eggshells, especially Kenichi Ishizumi, the stoic 37-year-old senior supervisor. One night, overwhelmed and tipsy in a quiet park, Reina blurts out, \"That's it! I quit being everyone's boss!\"—completely unaware that the man beside her is her employee. Under the soft glow of the stars, he listens silently... and makes a quiet vow to stand by her side.",
+    "author": "",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Office Workers",
+      "Slice of Life"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "179",
+    "title": "Love Live! - Ohayou kara Oyasumi made (Doujinshi)",
+    "description": "No description available",
+    "author": "",
+    "genres": [
+      "Oneshot",
+      "Romance",
+      "Girls' Love",
+      "Doujinshi",
+      "Slice of Life"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "180",
+    "title": "Bakudanma na Youhei, Douji Shoukan sareta Saikyou Cheat-domo wo Katappashi kara Keshitobasu",
+    "description": "Jack Aaron is the strongest mercenary known by the nickname \"The Bomber\". After completing a heavy mission, what awaited him was a summons to another world! In this summoning, everyone is granted a special ability. However, the ability Jack was given was quite limited: [Bomb Making]. The people who summoned him from the other world dismissed Jack’s ability as useless, and the other summoned individuals began to mock him as a useless foreigner.\n\nTo return to his original world, he forms a partnership with Alice, an alchemist derisively called \"The Witch.\" During this process, Jack learns that the other summoned individuals, who he thought he had killed in an explosion, are still alive.",
+    "author": "",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Adventure",
+      "Isekai",
+      "Fantasy",
+      "Adaptation"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "181",
+    "title": "Ao no Tatsuki",
+    "description": "Shin-Yoshiwara — the largest pleasure district of Edo.  In this place where the passions of the living and the dead intertwine, the successful courtesan Ao stumbles upon a mysterious local shrine. It is a mystical realm where the souls of courtesans burdened by intense desire or regret are drawn. Now the bold Ao and the kind fox-eared priest Rakumaru must guide and save them! But can Ao herself be saved…?  Expect encounters with malicious demons, restless yōkai, desperate humans… and the tales of their lives in old Japan.",
+    "author": "",
+    "genres": [
+      "Monsters",
+      "Demons",
+      "Psychological",
+      "Ghosts",
+      "Magic",
+      "Philosophical",
+      "Drama",
+      "Fantasy",
+      "Slice of Life",
+      "Supernatural",
+      "Tragedy"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "182",
+    "title": "Akane-banashi",
+    "description": "Rakugo--the ultimate form of storytelling, where everything in a story is expressed with just your body and words. Shinta and his daughter Akane have been seduced by this wonderful form of classical Japanese entertainment. Having observed her father strive to pass the shin'uchi rakugo test, Akane takes her own steps into this unique world!",
+    "author": "",
+    "genres": [
+      "Award Winning",
+      "Comedy",
+      "Drama"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "183",
+    "title": "Usotsuki Kanojo wa, Kyou mo Kanojo-buru",
+    "description": "No description available",
+    "author": "",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "School Life",
+      "Slice of Life"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "184",
+    "title": "Otogi Bukkoro Shiamu",
+    "description": "\"Granma didn't tell' em like that...\"\n\nEveryone has a favorite hero from their fairy tales, but who's the strongest of them all!?\n\nThis is a tale of death and rebirth. In order to accomplish their dream, hopes, wishes, revenge and salvation, the heroes of classic fairy tales will engage in a duel to death!\n\nThe warriors are resurrected and summoned to the Nightmare Coliseum by a mysterious monster who calls himself \"Grimm P.\" and he promises the ultimate prize \"You can resurrect anyone you want and live happily ever after\"\n\nThis tournament is filled with bloody carnage, if you want to win, you better toss common sense out of the way because it is not needed.\n\n\n\n\n\nThis is a dark fantasy battle action manga where bizarre characters from fairy tales come to life. Legends like Red Riding Hood, Snow White, Pinocchio, and Beauty and the Beast engage in surrealistic killing matches. Right of the bat, we have Son Goku versus Momotaro!\n\n\n\n32 characters will engage in sudden transformations, bloody battles, and tragic stories that will keep you on the edge of your seat.\n\n\n\nSure grandma didn't tell 'em like that!!",
+    "author": "",
+    "genres": [
+      "Reincarnation",
+      "Sci-Fi",
+      "Monsters",
+      "Action",
+      "Demons",
+      "Ghosts",
+      "Animals",
+      "Survival",
+      "Martial Arts",
+      "Samurai",
+      "Magical Girls",
+      "Post-Apocalyptic",
+      "Magic",
+      "Isekai",
+      "Gore",
+      "Horror",
+      "Fantasy",
+      "Monster Girls",
+      "Aliens",
+      "Supernatural"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "185",
+    "title": "JoJo's Bizarre Adventure, Part 9: The JOJOLands (Official Colored)",
+    "description": "The ninth story arc of Jojo’s Bizarre Adventure.\n\nO’ahu, early 2020s. Dua Lipa is a trending musician, and COVID is still a major concern. On this island lives a 15-year-old boy named Jodio Joestar. Alongside his sibling, Dragona Joestar, they act as dealers for certain illegal substances. One day, their employer comes and shows them an excellent find: a Japanese person has landed in Hawaii with a diamond worth over six million dollars. Normally it would be impossible to steal, but for two siblings with Stands…\n\nThis is a story of a young boy and his quest to become rich.",
+    "author": "",
+    "genres": [
+      "Official Colored",
+      "Action",
+      "Crime",
+      "Mafia",
+      "Adventure",
+      "Sexual Violence",
+      "Gore",
+      "Drama",
+      "Delinquents",
+      "Supernatural"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "186",
+    "title": "Kurotsuki no Yaergnacht",
+    "description": "While on his way home from an interview, unemployed, unmotivated, jaded 18-year-old Inumata Shinogi encounters the beautiful lady and evil spirit Yaergnacht Finsternis. She demands him to either marry her or die on the spot. He must command the battle against enemies of humanity, the apostles of God (Highlanders), and save the world with his wife!!\n___\n**Alt Official Raw:** [COMIC DAYS](https://comic-days.com/episode/2550912965944469925)",
+    "author": "",
+    "genres": [
+      "Action",
+      "Demons",
+      "Ghosts",
+      "Romance",
+      "Harem",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "187",
+    "title": "Funouhan",
+    "description": "Is there someone whom you desperately wish to see dead? If you want your enemies and rivals eliminated, free-of-charge and with no possibility of the crime being traced back to you, all you need to do is leave a message for \"Usobuki Tadashi\" in a certain telephone booth at a certain park.  \n  \nSoon afterwards, a black-suited man with cold, crimson eyes will meet with you and confirm the target. He cannot be prosecuted, for he kills through the power of suggestion and the clever arrangement of events. He will accept any request: regardless of whether the target is saint or sinner, and no matter how foolish, cruel or misguided the client… All with a mocking smile on his face that belies his quiet amusement in the face of humankind's never-ending folly.  \n  \n[See AnimeNewsNetwork for live action movie.](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18867)",
+    "author": "",
+    "genres": [
+      "Psychological",
+      "Crime",
+      "Sexual Violence",
+      "Gore",
+      "Drama",
+      "Horror",
+      "Tragedy"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "188",
+    "title": "Shouwaru Tensai Osananajimi to no Shoubu ni Makete Hatsutaiken o Zenbu Ubawareru Hanashi",
+    "description": "Wakaba Yoshizawa has a childhood friend named Komaki Umezono.\n\nThis girl wore the mask of an honor student with good morals who's blessed with both beauty and brains, but in reality she's an evil genius who looked down on people. For the sake of regaining the dignity she lost to Komaki, Wakaba challenges her to a match, but Komaki tells her \"Each time I win, I will take one precious thing from you.\" as a condition!? Every time she loses to the girl she \"hates\", her true feelings get exposed.\n\n(Source: Young Ace Up)",
+    "author": "",
+    "genres": [
+      "Psychological",
+      "Romance",
+      "Girls' Love",
+      "School Life",
+      "Adaptation"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "189",
+    "title": "Taiga of Genesis",
+    "description": "A story of a young man who lacks a sense of reality after being dumped by his lover. He was visiting a seminar on cultural anthropology with his fellow classmates when he discoveres an ancient wall painting, which transports him to the past where mammoths dominated the world.",
+    "author": "",
+    "genres": [
+      "Time Travel",
+      "Historical",
+      "Action",
+      "Survival",
+      "Adventure",
+      "Sexual Violence",
+      "Gore",
+      "Drama",
+      "Supernatural",
+      "Mystery"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "190",
+    "title": "Shimeji Simulation",
+    "description": "A surreal yet heartwarming 4-koma series about everyday life.  \n  \nFrom the author of Shoujo Shuumatsu Ryokou/Girls' Last Tour.",
+    "author": "",
+    "genres": [
+      "Sci-Fi",
+      "Comedy",
+      "Girls' Love",
+      "4-Koma",
+      "Philosophical",
+      "School Life",
+      "Slice of Life"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "191",
+    "title": "Shuumatsu no Valkyrie",
+    "description": "The story begins when the gods call a convention to decide whether to let humanity live or die, and settle on destroying humanity. But a lone Valkyrie puts forward a suggestion to let the gods and humanity fight one last battle, as a last hope for humanity's continued survival. 13 gods will fight against 13 human champions in one-on-one battles to decide whether humanity lives or dies.\n___\n**Alt Official English:** [Comikey](https://comikey.com/comics/record-of-ragnarok-manga/61/), [MangaHot](https://mangahot.jp/site/works/e_R0002)",
+    "author": "",
+    "genres": [
+      "Action",
+      "Survival",
+      "Martial Arts",
+      "Adventure",
+      "Post-Apocalyptic",
+      "Magic",
+      "Gore",
+      "Fantasy",
+      "Supernatural",
+      "Tragedy"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "192",
+    "title": "RED: Living On the Edge",
+    "description": "Set in nineteenth-century America, Red is the last living survivor of a Native American tribe that was slaughtered by white men. On a long journey in search of revenge, he travels with Iero Ito, a samurai who ran away to America after being defeated in the Seinan civil war, and Angie, a mysterious prostitute. The bonds of friendship between the three are touching. Although it is all fiction, the story seems very real as it is based on actual battles between US troops, Apaches and other tribes.\n\n\n---\nOfficial Release:\n- Indonesian release by Level Comics (2005)",
+    "author": "",
+    "genres": [
+      "Historical",
+      "Action",
+      "Animals",
+      "Comedy",
+      "Martial Arts",
+      "Samurai",
+      "Adventure",
+      "Crossdressing",
+      "Military",
+      "Gore",
+      "Drama",
+      "Supernatural",
+      "Tragedy"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "193",
+    "title": "Isekai Henkyo Meshi",
+    "description": "A lone diner stands in the remote frontier. Drawn by the cooking of a human known only as “Master,” demons, elves, and others of all races gather to savor his food. On the stage of this small restaurant, a gourmet tale of joy and sorrow alike begins to unfold!",
+    "author": "",
+    "genres": [
+      "Monsters",
+      "Action",
+      "Demons",
+      "Adventure",
+      "Isekai",
+      "Drama",
+      "Fantasy",
+      "Slice of Life",
+      "Cooking",
+      "Supernatural",
+      "Adaptation"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "194",
+    "title": "Mieruko-chan",
+    "description": "All of a sudden, Miko is able to see grotesque monsters all around her; but no one else can. Rather than trying to run away or face them, she instead musters all of her courage and... ignores them. Join in on her day-to-day life as she keeps up her best poker face despite the supernatural goings-on.\n___\n**Alt Official Raw:** [niconico Manga](http://manga.nicovideo.jp/comic/37662)",
+    "author": "",
+    "genres": [
+      "Award Winning",
+      "Monsters",
+      "Psychological",
+      "Ghosts",
+      "Comedy",
+      "Magic",
+      "Drama",
+      "School Life",
+      "Horror",
+      "Slice of Life",
+      "Supernatural",
+      "Mystery",
+      "Tragedy"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "195",
+    "title": "Kamen Rider W - Futo PI",
+    "description": "A mysterious woman claiming to be a witch steals a valuable bag from a man and claims that he can't satisfy her before vanishing into thin air. Having run across her himself, Shotaro and his trusted partner Philip take the case but quickly find that things aren't right in Fuuto, starting a new battle for the two-in-one detective Kamen Rider Double.\n___\n **Note:** The series is a direct sequel of the tokusatsu series Kamen Rider W and its subsequent specials.\n___\nOfficial Release:\n- Indonesian release by Akasha as **Futo Detective**",
+    "author": "",
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Psychological",
+      "Romance",
+      "Comedy",
+      "Crime",
+      "Superhero",
+      "Adventure",
+      "Drama",
+      "Police",
+      "Supernatural",
+      "Mystery"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "196",
+    "title": "POWPOW! Odyssey",
+    "description": "A parody of modern shounen\n\nA young rabbit man and his two dipshit friends try to solve the murder of one of their fathers.\n\n[Soundtrack to listen to while reading]https://www.youtube.com/playlist?list=PL352CWaMNzHOtH6SLjzZqDitIGcKrGMoE",
+    "author": "",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Adventure",
+      "Self-Published",
+      "Mystery"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "197",
+    "title": "My identity",
+    "description": "How far will you go for love? For Loha, there is no limit",
+    "author": "",
+    "genres": [
+      "Long Strip",
+      "Comedy",
+      "Crossdressing",
+      "Drama",
+      "School Life",
+      "Slice of Life",
+      "Full Color"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "198",
+    "title": "Rin of the Demon",
+    "description": "An Earth-like planet one-fourth the size of Earth hit the Earth, triggering a worldwide disaster that caused the Earth's population to be reduced by more than half. This Earth-like planet also brought another far more powerful race than humans \"the demon race\". Human civilization was forced to the brink of extinction, and in the end, humans barely managed to keep the last five forest settlements, and the demon race became the new master of the Earth.",
+    "author": "",
+    "genres": [
+      "Action",
+      "Demons",
+      "Long Strip",
+      "Comedy",
+      "Adventure",
+      "Fantasy",
+      "Web Comic",
+      "Full Color"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "199",
+    "title": "Flying Witch",
+    "description": "Kowata Makoto is an airhead with a bad sense of direction who just moved into her relative's house... but is that all?  \n___\n**Note:** The Oneshot was originally published under a different pen name (Ishioka Chikai). \n\n**Links:**\n* [Official Korean (Lezhin)](https://www.lezhin.com/ko/comic/flying_witch)",
+    "author": "",
+    "genres": [
+      "Animals",
+      "Comedy",
+      "Adventure",
+      "Magic",
+      "School Life",
+      "Fantasy",
+      "Monster Girls",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "status": "ongoing",
+    "chapters": 0,
+    "rating": 0
+  },
+  {
+    "id": "200",
+    "title": "Yuri Yuri! - Shiiku-bu no Futari",
+    "description": "Tsukiko Amatsuki is the president of the school's animal care club. Even though she's the only member, while she's diligently tending to the animals, a beautiful girl suddenly calls out to her!\n\n\"Take care of me.\"\n\nThe self-proclaimed exchange student Yosefka says she's having trouble in this unfamiliar land...?\n\"Humans are animals too,\" she declares, and just like that Tsukiko ends up looking after her — even teaching her how to use the toilet!?\n\n\"I want breast milk.\"\n\n\"I want to have intercourse.\"\n\nEven though her word choices seem rather suspicious for an exchange student, before she knows it Tsukiko has to take care of her every need — from meals to studying — hand and foot.\n\nA chaotic, pervy comedy about the animal care club president Tsukiko and the exchange student (?) Yosefka!!",
+    "author": "",
+    "genres": [
+      "Comedy",
+      "Girls' Love",
+      "School Life",
+      "Aliens"
+    ],
+    "status": "completed",
+    "chapters": 0,
+    "rating": 0
+  }
+]

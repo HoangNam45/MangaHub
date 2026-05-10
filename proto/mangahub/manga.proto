@@ -1,0 +1,82 @@
+syntax = "proto3";
+
+package mangahub;
+
+option go_package = "mangahub/internal/grpc/pb";
+
+// Manga represents a manga object
+message Manga {
+    string id = 1;
+    string title = 2;
+    string description = 3;
+    string author = 4;
+    repeated string genres = 5;
+    string status = 6;
+    int32 chapters = 7;
+    double rating = 8;
+}
+
+// GetMangaRequest requests a manga by ID
+message GetMangaRequest {
+    string manga_id = 1;
+}
+
+// MangaResponse contains the requested manga
+message MangaResponse {
+    bool success = 1;
+    string message = 2;
+    Manga manga = 3;
+    int32 error_code = 4;
+}
+
+// SearchRequest contains search criteria
+message SearchRequest {
+    string title = 1;
+    string author = 2;
+    string genre = 3;
+    string status = 4;
+    int32 page = 5;
+    int32 page_size = 6;
+}
+
+// SearchResponse contains search results
+message SearchResponse {
+    bool success = 1;
+    string message = 2;
+    repeated Manga results = 3;
+    int32 total_count = 4;
+    int32 page = 5;
+    int32 error_code = 6;
+}
+
+// ProgressRequest contains progress update information
+message ProgressRequest {
+    string user_id = 1;
+    string manga_id = 2;
+    int32 current_chapter = 3;
+}
+
+// ProgressResponse contains the progress update result
+message ProgressResponse {
+    bool success = 1;
+    string message = 2;
+    string manga_id = 3;
+    string title = 4;
+    int32 current_chapter = 5;
+    int32 total_chapters = 6;
+    int32 progress = 7;
+    string updated_at = 8;
+    int32 error_code = 9;
+}
+
+// MangaService provides gRPC methods for manga operations
+service MangaService {
+    // GetManga retrieves a single manga by ID
+    rpc GetManga(GetMangaRequest) returns (MangaResponse);
+    
+    // SearchManga searches for manga based on criteria
+    rpc SearchManga(SearchRequest) returns (SearchResponse);
+    
+    // UpdateProgress updates user's reading progress
+    rpc UpdateProgress(ProgressRequest) returns (ProgressResponse);
+}
